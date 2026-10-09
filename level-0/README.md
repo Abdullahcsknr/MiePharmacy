@@ -11,7 +11,7 @@ başlangıç metriklerini kaydetmek. Bu metrikler ileride case study'nin "önce"
 | 1 | Müşteri bilgi formu | [01-musteri-bilgi-formu.md](01-musteri-bilgi-formu.md) | 🟡 Cevap bekleniyor | Sen / müşteri |
 | 2 | Regülasyon kontrol listesi | [02-regulasyon-kontrol-listesi.md](02-regulasyon-kontrol-listesi.md) | 🟢 Taslak hazır, kategoriye göre daraltılacak | Müşteri regülasyon ekibi onayı |
 | 3 | Marka denetimi | [03-marka-denetimi.md](03-marka-denetimi.md) | ⚪ Hesap adları bekleniyor | Instagram hesapları |
-| 3a | Drive arşivi içerik analizi | [03a-drive-arsiv-analizi.md](03a-drive-arsiv-analizi.md) | 🟢 İlk tur bitti (13 video + 2 görsel) | Büyük videolar için küçük versiyonlar |
+| 3a | Drive arşivi içerik analizi | [03a-drive-arsiv-analizi.md](03a-drive-arsiv-analizi.md) | 🟢 İlk tur bitti (14 video + 2 görsel) | Büyük videolar için küçük versiyonlar |
 | 4 | Rakip / benchmark analizi | [04-rakip-analizi.md](04-rakip-analizi.md) | ⚪ Bekliyor | Rakip listesi (müşteriden de iste) |
 | 5 | Persona | [05-persona.md](05-persona.md) | ⚪ Bekliyor | Instagram Insights demografisi |
 | 6 | İçerik sütunları | [06-icerik-sutunlari.md](06-icerik-sutunlari.md) | ⚪ 3–5 tamamlanınca | — |

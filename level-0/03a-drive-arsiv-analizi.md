@@ -2,7 +2,7 @@
 
 > Kaynak: Google Drive › MiePharm (3 alt klasör, ~90 video, ~20 görsel, ~5 GB)
 > Analiz tarihi: 2026-10-09
-> Kapsam: Drive bağlantısı ~5 MB üstü dosyaları indiremedi. **13 video + 2 görsel** incelendi:
+> Kapsam: Drive bağlantısı ~5 MB üstü dosyaları indiremedi. **14 video + 2 görsel** incelendi:
 > Instagram ürün videolarının hepsi (OneDrive_3, 12 adet), 1 fuar story'si, 1 kurumsal fason üretim videosu, 2 kurumsal görsel.
 > Uzun kurumsal/fuar videoları (MİE 1–52, TANITIM, fuar kayıtları, TR/EN/AR tanıtımlar) **incelenemedi**.
 > Ses: Konuşmalar metne dökülemedi (transkripsiyon modeli erişilemedi). Ses seviyeleri müzik altlığına işaret ediyor; dış ses olup olmadığı doğrulanmadı.
