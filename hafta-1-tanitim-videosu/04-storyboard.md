@@ -1,28 +1,32 @@
-# Aşama 4 — Storyboard (taslak v1)
+# Aşama 4 — Storyboard v2
 
-![storyboard](04-storyboard.jpg)
+![storyboard v2](04-storyboard-v2.jpg)
 
-**Fikir:** Sitedeki 6 adımlık fason süreci (Stratejik Planlama → Formülasyon → Tasarım & Ambalaj → Yasal Kayıtlar → Seri Üretim & KK → Teslimat), gerçek tesis görüntüleriyle adım adım gösterilir. Her pencerenin etiketi = sitedeki adım adı. Uydurma yok.
-**Süre:** ~36 sn · 9:16 · koyu şablon, serif başlık, pencerede gerçek görüntü.
+**Amaç:** Fason ürettirmek isteyenlere markayı tanıtan, sabitlenecek Reels. Büyük makineler ve gerçek tesis, büyük şirket izlenimi vermeli.
+**Süre:** ~40 sn · 9:16 1080×1920 · 4:5 grid kapağı ortada güvenli.
 
-| # | Süre | Etiket | Görüntü | Başlık (geçici, Aşama 5'te yazılacak) |
+## Yapı
+
+| # | Süre | Düzen | Görüntü | Ekran metni |
 |---|---|---|---|---|
-| 01 | 0–3 | — | MIE_3 koridor → üretim | Kanca sorusu |
-| 02 | 3–6 | STRATEJİK PLANLAMA | MIE_43 toplantı | |
-| 03 | 6–9 | FORMÜLASYON | MIE_6. lab tartım | |
-| 04 | 9–12 | TASARIM & AMBALAJ | MIE_45 showroom rafları | |
-| 05 | 12–15 | YASAL KAYITLAR | MIE_49 ofis | |
-| 06 | 15–18 | SERİ ÜRETİM | YENI_MIE_12 kazan (+MIE_9 hızlı kesme) | |
-| 07 | 18–21 | DOLUM | MIE_28 / YENI_MIE_23 | |
-| 08 | 21–24 | KALİTE KONTROL | MIE_37 etiketli şişeler | |
-| 09 | 24–27 | PAKETLEME | MIE_39 | |
-| 10 | 27–31 | EKİBİMİZ | MIE_33 | |
-| 11 | 31–36 | — | Logo + tek çağrı (DM: KATALOG) + miepharma.com | |
+| 01 | 0–2 | **Geniş bant, dev makine** + itme zoom | MIE_30 dolum hattı | Kendi kozmetik markanızı mı kuruyorsunuz? |
+| 02 | 2–6 | **Fason tanımı animasyonu** (beyaz zemin, kelime kelime) | — | FASON ÜRETİM · Marka sizin. Formül, üretim, ambalaj ve yasal süreçler bizim. |
+| 03 | 6–8 | Beyaz zemin, **orijinal logo** + vaat | — | Formülden rafa, tek noktada. |
+| 04 | 8–11 | Pencere (referans stil) | MIE_43 toplantı | 01/06 Önce hedefinizi dinleriz. |
+| 05 | 11–14 | Pencere | MIE_6. lab | 02/06 Size özel numune, stabilite ve mikrobiyoloji testli. |
+| 06 | 14–17 | Pencere | MIE_45 → MIE_44 ambalaj rafları | 03/06 Tasarımı kendi ekibimiz yapar. |
+| 07 | 17–20 | Pencere | MIE_49 ofis | 04/06 ÜTS ve bakanlık bildirimi sizin adınıza. |
+| 08 | 20–25 | **Geniş bant, hızlı kesmeler** (dev kazan, panolar) | MIE_7 · YENI_MIE_10–13 · MIE_9 · MIE_41 | 05/06 Onaylı numuneyle birebir aynı kalite. |
+| 09 | 25–28 | **Çoklu pencere (ölçek)** | MIE_28 · MIE_38 · MIE_9 · MIE_34 | Aynı anda, aynı özenle. |
+| 10 | 28–31 | Pencere | MIE_39 → YENI_MIE_18 transpalet | 06/06 Satışa hazır teslim. |
+| 11 | 31–34 | Büyük rakam + pencere | MIE_33 ekip | Ortalama proje süresi 3–6 hafta* |
+| 12 | 34–40 | Beyaz zemin, **orijinal logo** + CTA | — | Markanızı oluşturun, üretimini bize bırakın. · DM'den KATALOG yazın · miepharma.com |
 
-**Geçişler:** pencere aşağıdan yükselir, görüntü pencere içinde değişir (kart sabit, etiket yazılarak değişir), başlık kelime kelime netleşir.
+## Görsel sistem (kurumsal kimlik)
+- Logo: **orijinal siyah serif "Mie"** (dosya bekleniyor), beyaz zemin üzerinde. Değiştirilmez, yeniden çizilmez.
+- Renk: site paleti: siyah `#000`, beyaz `#FFF`, gri `#555555`, vurgu turuncu `#ff6418` (sadece adım numarası, etiket noktası, CTA)
+- Font: gövde/etiket **Montserrat** (site). Başlık: serif (logoyla uyumlu) **ya da** Montserrat. Karar bekliyor
+- Instagram: alt ~380 px (açıklama/butonlar) ve sağ ~140 px (ikonlar) boş. Yazılar y 250–1500 arasında
 
-## Onay bekleyen kararlar
-1. Kapanış: koyu zeminde **beyaz** logo mu, yoksa son sahnede **beyaz zemine geçip** orijinal siyah logo mu? (Kapanış videosu beyaz)
-2. Vurgu rengi: site turuncu `#ff6418` / IG bordo. Ya da hiç renk yok (siyah-beyaz)?
-3. CTA: "DM'den KATALOG yazın" uygun mu?
-4. Genel Müdür / toplantıdaki kişilerin görünmesi için izin var mı?
+## Ritim
+Bölüm 01 ve 08–09 hızlı kesme (müzik vuruşlarına), adımlar 3'er sn sakin. Geçiş: pencere yükselir, etiket yazılarak değişir, başlık bulanıktan netleşir.
