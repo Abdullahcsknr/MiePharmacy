@@ -2,7 +2,8 @@
 """YouTube Shorts izlenmelerini çeker (herkese açık, giriş gerekmez) ve swipe.tsv satırı üretir.
 
 Kullanım (kendi bilgisayarında; pip install yt-dlp):
-  python3 shorts_fetch.py @gumuskozmetik @baskahesap --n 12 > kayit.tsv
+  python3 shorts_fetch.py @gumuskozmetik @baskahesap --n 12 --out kayit.tsv
+(Windows'ta '>' yönlendirmesi yerine --out kullan: Türkçe karakterler UTF-8 yazılır.)
 Küçük partilerle çalış (birkaç kanal), arka planda döngüye sokma.
 Kanca sütunu video BAŞLIĞIDIR; söylenen ilk cümle için videoyu aç ya da otomatik altyazıya bak (ilk 3 sn).
 """
@@ -20,7 +21,12 @@ def fetch(handle, n):
 
 def main():
     ap = argparse.ArgumentParser(); ap.add_argument("handles", nargs="+"); ap.add_argument("--n", type=int, default=12)
+    ap.add_argument("--out", default=None)
     a = ap.parse_args()
+    if a.out:
+        sys.stdout = open(a.out, "w", encoding="utf-8", newline="\n")
+    else:
+        sys.stdout.reconfigure(encoding="utf-8")
     print("\t".join(COLS))
     for h in a.handles:
         d = fetch(h if h.startswith("@") else "@" + h, a.n)

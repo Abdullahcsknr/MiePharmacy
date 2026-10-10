@@ -34,7 +34,12 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("tsv"); ap.add_argument("--out", default="swipe.md")
     a = ap.parse_args()
-    rows = list(csv.DictReader(open(a.tsv, encoding="utf-8"), delimiter="\t"))
+    raw = open(a.tsv, "rb").read()
+    try:
+        metin = raw.decode("utf-8-sig")
+    except UnicodeDecodeError:  # Windows'ta '>' ile yazılmış dosya (cp1254)
+        metin = raw.decode("cp1254", errors="replace")
+    rows = list(csv.DictReader(metin.splitlines(), delimiter="\t"))
     ok, eksik = [], []
     for r in rows:
         v, m = num(r.get("izlenme")), num(r.get("medyan"))
