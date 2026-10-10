@@ -3,7 +3,9 @@
 **Hedef:** Instagram profiline sabitlenecek, markayı tanıtan, emeği ve kurumsal ölçeği gösteren, Instagram'a özel tanıtım videosu.
 Ardından aynı yöntemle kozmetik (B2C) sayfası için ikinci video.
 
-**Kurallar:** Kurumsal kimliğin dışına çıkma · yeni iddia uydurma (her bilgi kaynaklı) · yapay değil ama profesyonel.
+**Kurallar:** Kurumsal kimliğin dışına çıkma (orijinal logo, site renkleri) · yapay değil ama profesyonel.
+
+> **KAYNAK KURALI:** Videoda, açıklamada ve ekranda yer alan **her ifade miepharma.com'da ya da @mie.fabrika'da birebir yazıyor olmalı.** Her cümlenin kaynağı `05-metin.md` tablosunda. Kaynağı olmayan ifade kullanılmaz. Kısaltma yalnızca cümleden kelimeleri sırası bozulmadan almakla yapılır.
 
 ## Teknik çerçeve (öneri)
 
