@@ -1,33 +1,33 @@
-# Aşama 4 — Storyboard v4: "12 Adımlık Liste"
+# Aşama 4 — Storyboard v5
 
-![storyboard v4](04-storyboard-v4.jpg)
+![storyboard v5](04-storyboard-v5.jpg)
 
-## Büyük fikir
-Kozmetik markası kurmak isteyen kişinin karşısına çıkan **zorunlu süreçler listesi**, ekrana yağıp üst üste yığılır (problem). Hepsi tek bir **"ANAHTAR TESLİM"** kutusuna emilir (çözüm). Kutu kapı gibi açılır ve **gerçek fabrikaya** girilir (kanıt + ölçek).
-Ogilvy: kitleyi işaretleyen soru ile açılış, problem–çözüm, gösterim (demonstration), tek vaat, tek çağrı. Brag: hook 2 sn, Hook > Reveal > 3 vurgu > Outro, 25 sn.
+Mavi taralı alanlar = Instagram arayüzünün kapattığı bölge (ig-reel kuralı: y<230, y>1440, sağ 230 px). Yazıların hepsi temiz alanda.
 
-**Neden bu açılış:** Hesabın en çok izlenen 2 videosu (100 B ve 98,8 B) izleyiciye doğrudan soru soruyordu. Yorumlardaki "gizli maliyet" itirazı (ÜTS, testler, ambalaj…) bu acının gerçek olduğunu gösteriyor.
+## v5'te değişenler
+- **Renk:** site paleti. Zemin turuncu `#ff6418` / açık gri `#F4F4F4` / beyaz. Siyah yalnızca logoda ve 2 hook kelimesinde
+- **Font:** Reels tipografisi. Başlık **Anton** (yoğun, dar, büyük), altyazı **Poppins Black** + aktif kelime turuncu kutu
+- **Görüntü:** 6 klip 1080p (MIE_3, MIE_7, MIE_9, MIE_28, MIE_30, MIE_38). Tam ekran sahneler artık net
+- **Logo:** HD siyah "Mie" (`kimlik/logo-mie-siyah-hd.png`)
 
-## Akış (25 sn, 9:16)
+## ig-reel yapısı (25 sn)
+| Bölüm | Süre | Sahne |
+|---|---|---|
+| HOOK | 0–2 | 01 turuncu zemin, soru (kare 1'de hareket) |
+| STAKE | 2–5,5 | 02 12 süreç kartı yağar |
+| BODY | 5,5–22 | 03 ANAHTAR TESLİM · 04 vaat · 05 kapıdan giriş (MIE_3 tek plan) · 06 dev dolum hattı · 07 adımlar 01–04 · 08 adım 05 · 09 3-6 hafta |
+| PAYOFF + ASK | 22–25 | 10 logo + kapanış cümlesi + tek çağrı |
+| LOOP | son kare | Turuncuya kesme; tekrar oynatınca hook'a dikişsiz bağlanır |
 
-| # | Süre | Ne olur (motion) | Ekran metni | Ses |
+Her sahne ≤ 3,5 sn (kare her vuruşta değişir). Ekran kartları ≤ 6 kelime (hook hariç: 5 kelime).
+
+## Hook seçenekleri (ig-reel adım 1–2)
+`hookscore.py` / `hooks.json` dosyaları gelmediği için puanlama elle yapıldı.
+| # | Formül | Sözlü | Ekranda | Değerlendirme |
 |---|---|---|---|---|
-| A–B | 0–2,5 | Siyah zemin, kelimeler tek tek çarpar (ölçek %140>%100), son kelimede hafif sarsıntı | KOZMETİK SEKTÖRÜNE GİRMEK İSTİYOR MUSUN? | VO + her kelimede bas vuruşu |
-| C | 2,5–5,5 | 12 süreç kartı yukarıdan yağar, dönerek yığılır, hızlanır; sayaç 1>12 | FORMÜLASYON · STABİLİTE · MİKROBİYOLOJİK · CHALLENGE TEST · MSDS · PIF · CPSR · ÜTS BİLDİRİMİ · AMBALAJ · ETİKET · GRAFİK TASARIM · SERİ ÜRETİM | Kart düşme sesleri, gerilim |
-| D | 5,5–7 | Kartlar tek kutuya emilir, damga iner | ANAHTAR TESLİM | Damga SFX, müzik susar |
-| E | 7–9 | Kutu küçülür, cümle kelime kelime | Kendi markanı oluşturmak artık çok daha kolay. | VO |
-| F | 9–10,5 | Kutu kapı gibi açılır, koridordan içeri hızlı itme | MİE KOZMETİK · FASON ÜRETİM MERKEZİ | VO + whoosh, bas drop, müzik başlar |
-| G | 10,5–12 | Dev dolum hattı tam ekran, yavaş zoom-out | Onaylanan numune ile birebir aynı kalitede seri imalat | VO |
-| H–J | 12–18 | İlerleme çubuğu 01>06; referans stildeki pencere yerinde kalır, görüntü ve etiket değişir, alttaki kart tik alır. 05'te pencere içinde 3 hızlı kesme | 6 adım adı (site) | Her adımda "tik" sesi, vuruşa kesme |
-| K | 18–21 | 9 pencere aynı anda açılır (60 ms aralıkla); süre sayaçla dolar | ORTALAMA PROJE SÜRESİ 3-6 hafta* · *Proje bazlı yeni ürünler için ek süre gerekebilir. | VO |
-| L | 21–25 | Beyaza geçiş, orijinal logo, kapanış cümlesi kelime kelime; CTA nabız gibi | Markanı oluştur, üretimini bize bırak. · Teklif ve Katalog İçin İletişime Geçin · miepharma.com | VO, müzik çözülür |
-
-## Tipografi (Reels standardı, kurumsal font)
-- **Montserrat** (site fontu): kanca/başlık Black 900, 110–150 px, BÜYÜK HARF, satır başına en fazla 12–14 karakter
-- Cümleler ExtraBold 800, 72–84 px, ekran başına en fazla 5–6 kelime, kelime kelime giriş
-- Altyazı: alt orta (y 1150–1450), aktif kelime turuncu `#ff6418` kutu
-- Renk: siyah / beyaz / `#555555` / vurgu `#ff6418`. Görüntü üstünde alttan siyah gradyan (okunabilirlik)
-- Güvenli alan: üst 250 px, alt 380 px, sağ 140 px boş. 4:5 kapak ortada
+| 1 | Kitleyi işaretleyen soru | Kozmetik sektörüne girmek istiyor musun? | KOZMETİK SEKTÖRÜNE GİRMEK İSTİYOR MUSUN? | **Seçildi.** Hesapta aynı soru 100 B izlendi; izleyiciyi ilk kelimede seçiyor |
+| 2 | Kolaylık vaadi | Kendi markanı oluşturmak artık çok daha kolay. | ARTIK ÇOK DAHA KOLAY | Güçlü vaat ama kime olduğu belli değil. Vaat olarak 04'te kullanıldı |
+| 3 | Rakam | Ortalama proje süresi 3-6 hafta. | 3-6 HAFTA | Somut ama bağlamsız açılışta zayıf. Kanıt olarak 09'da kullanıldı |
 
 ## Kaynak tablosu (her ifade birebir)
 | İfade | Kaynak |
