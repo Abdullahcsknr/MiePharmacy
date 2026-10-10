@@ -26,7 +26,7 @@ Ardından aynı yöntemle kozmetik (B2C) sayfası için ikinci video.
 | 3 | Fabrika / arşiv görüntü analizi | Claude | Küçültülmüş arşiv videoları | `03-arsiv-gorunt-envanteri.md` (sahne, zaman kodu, kullanılabilirlik) | 🔴 Videolar bekleniyor |
 | 4 | Storyboard | Claude taslak → sen onay | 1–3 | `04-storyboard.md` + kare çizimleri | ⚪ |
 | 5 | Metin (Ogilvy) | Claude (ogilvy-copywriting) → sen onay | 1–4 | `05-metin.md` | ⚪ |
-| 6 | Motion video | Claude kodla üretir | Logo (vektör), fontlar, renk kodları, arşiv klipleri | `cikti/v1.mp4` | ⚪ |
+| 6 | Motion video | Claude kodla üretir (`motion/reel_v1.py`) | Storyboard v5, 1080p klipler | `cikti/mie-fason-reel-v1-sessiz.mp4` | 🟡 v1 hazır, onay bekliyor |
 | 7 | Müzik | Claude (kodla müzik) — yedek: lisanslı kütüphane | Ton/tempo kararı | `cikti/muzik.wav` | ⚪ |
 | 8 | Seslendirme | ElevenLabs | 5'teki metin | `cikti/ses.mp3` | ⚪ Erişim yöntemi bekleniyor |
 | 9 | Teslim + feedback | Claude gönderir, sen/müşteri yorumlar | v1 | feedback notları | ⚪ |
