@@ -82,16 +82,28 @@ Hesap büyüklüğüne göre normalize et. Tek başına izlenme yanıltır.
 
 | Metrik | Hesaplama | Eşik |
 |---|---|---|
-| **Outlier skoru** | Videonun izlenmesi ÷ o hesabın son 12 videosunun medyan izlenmesi | ≥ 5x → viral sinyali; ≥ 10x → güçlü |
+| **Outlier skoru** | Videonun izlenmesi ÷ o hesabın son 12 videosunun medyan izlenmesi | **≥ 3x → sinyal · ≥ 5x → güçlü · ≥ 10x → çok güçlü · < 1,5x → hesabın normal günü, ders çıkarma** |
 | **Erişim oranı** | İzlenme ÷ takipçi | ≥ 1,0 → takipçi dışına çıkmış |
 | **Kaydetme/paylaşım sinyali** | Görünüyorsa kayıt+paylaşım ÷ beğeni, görünmüyorsa yorum içeriğinden çıkar | Yüksekse "faydalı" tipi içerik |
 | **Tazelik** | Yayın tarihi | Trend için son 90 gün; format analizi için son 12 ay |
 
 Küçük hesap + yüksek outlier skoru **en değerli bulgudur**: format çalışıyor, hesap büyüklüğü sebep değil.
+Mie'nin kendi hesap büyüklüğünün **yaklaşık 10 katı içindeki** hesapları esas al. 2 milyon takipçide işleyen formül çoğu zaman 2 milyon takipçi olduğu için işler. Medyan yoksa sıralama yapma; takipçiye göre sıralamaya geri dönmüş olursun.
 
+### 4.1b Hesap seçimi (6–12 hesap)
+
+| Grup | Adet | Ne için |
+|---|---|---|
+| **Doğrudan** (aynı nişte, biraz önde) | 4 | Rakip formatları (B2C: dermokozmetik; B2B: fason) |
+| **Yakın alan** (kitle aynı, niş farklı: saç bakımı, eczacı anlatıcılar, girişimcilik, üretim/zanaat içerikleri) | 4 | Formatın sektörde henüz yaygın olmadan ödünç alındığı yer |
+| **Çok büyük** | 2–4 | Yalnızca **format** için. Tempo ve ton için asla |
+
+Müşteriden **kendi Instagram "Kaydedilenler" koleksiyonunu** da iste. Zevkine göre zaten filtrelenmiş, en hızlı ve en ilgili örnek havuzu.
 ### 4.2 Nereye bakılır
 
 Önceliği Instagram Reels olan, TikTok ve YouTube Shorts ile desteklenen bir tarama yap.
+
+**İkinci kaynak: YouTube Shorts.** Instagram izlenmeyi her zaman göstermez ve giriş ister. YouTube Shorts'ta izlenme sayısı ve otomatik altyazı **herkese açık**, giriş gerekmez. Aynı kanca dili orada da çalışır ve söylenen ilk cümleyi almak kolaydır. Instagram yeterli veri vermezse buraya geç. Araç: `tools/shorts_fetch.py`.
 
 | Kaynak grubu | Örnek aramalar | Ne için |
 |---|---|---|
@@ -108,6 +120,11 @@ Küçük hesap + yüksek outlier skoru **en değerli bulgudur**: format çalış
 - **Gözlemlediğini** yaz. Göremediğin metrik için `—` yaz veya `(tahmin)` işaretle. İzlenme/beğeni **asla uydurulmaz**.
 - Her bulgu için **URL, hesap, yayın tarihi, metrik tarihi** kaydet.
 - Tarayıcı aracıyla çalışırken: yalnızca oku. Beğenme, takip etme, yorum, mesaj yok.
+- **Kullanıcı adına asla giriş yapma, şifre isteme.** Giriş gerekiyorsa o zaten açık oturumdaki kullanıcıdır; kullanıcı yanındayken kendi tarayıcısını sür ya da yapıştırmasını iste.
+- **Okumak, kazımak değildir.** 10 hesap, hesap başına bir düzine video, insan hızında. Tarama botu, kazıma servisi, arka planda döngü **yok**. Yüksek hacimli otomatik toplama Instagram kullanım şartlarını ihlal eder ve hesabı kısıtlatır.
+- **Formülü kopyala, videoyu değil.** Kanca şekli, yapı, süre, kesme düzeni. Senaryo, ses, kurgu değil. Her satıra kaynak hesabı yaz.
+- **Örneklemi söyle.** 40 video / 6 hesap bir iddiayı taşır, 12 video taşımaz. Çıktıda örneklem büyüklüğünü ve güven düzeyini açıkça yaz.
+- **Sınıflandırılamayan kancaları elle oku.** Hiçbir türe uymayan kancalar ya gürültüdür ya da kütüphanede olmayan yeni bir formüldür. En değerli sütun budur.
 - "Trend ses" ve "yükselen hashtag" için ancak kaynak/ekran görüntüsü varsa kesin konuş, yoksa "doğrulanmadı" de.
 
 ### 4.4 Her video için kayıt şablonu
@@ -122,6 +139,16 @@ Küçük hesap + yüksek outlier skoru **en değerli bulgudur**: format çalış
 | Yapı: kanca → gelişim → ödül → kapanış (zaman kodlu) | |
 | Neden çalıştı? (2–3 hipotez, "(hipotez)" etiketli) | |
 | Yorumlarda tekrar eden soru/talep | |
+
+### 4.5 Sıralama aracı
+
+Kayıtları `tools/swipe.tsv` şablonuna gir (Chrome promptu bu formatta çıktı verir), sonra:
+
+```bash
+python3 skills/viral-video-finder/tools/swipe.py kayit.tsv --out swipe.md
+```
+
+Araç outlier skorunu hesaplar, kanca türünü anahtar kelimeyle tahmin eder, üst üçte bir ile alt üçte biri karşılaştırır ve sınıflandırılamayanları ayrı listeler. Kanca türü tahmini kaba bir kuraldır; sınıflandırılamayan ve yanlış sınıflananları elle kontrol et.
 
 ---
 

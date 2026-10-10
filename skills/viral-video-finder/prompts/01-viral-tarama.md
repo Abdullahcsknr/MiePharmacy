@@ -17,7 +17,10 @@ Bir sosyal medya içerik araştırması yapıyorsun. Yalnızca gözlemlediğini 
 - **Yalnızca Reels say.** URL'si `/reel/` olan içerikler. `/p/` ile açılan gönderiler (carousel, tek görsel) bu taramaya girmez; görürsen "Reels değil" diye ayrı listele.
 - **İzlenmeyi Reels sekmesi ızgarasından oku.** Her Reels küçük resminin üzerinde izlenme sayısı görünür, videoyu açmana gerek yok. Okuyamazsan o hesap için `izlenme: veri yok` yaz ve outlier hesaplama.
 - Beğeni/yorum sayısı izlenmenin yerine geçmez. İzlenmesi olmayan videoya "viral" ya da "outlier" deme.
-- Videoyu yalnızca outlier çıkan (≥5x) videolar için aç, diğerlerini açma.
+- Videoyu yalnızca outlier çıkan (≥3x) videolar için aç, diğerlerini açma.
+
+## Hesap seçimi (6–12 hesap)
+4 doğrudan rakip, 4 yakın alan (aynı kitle, farklı niş: saç bakımı, eczacı anlatıcılar, girişimcilik, üretim/zanaat içerikleri), 2–4 çok büyük hesap (yalnızca format için). Takipçi sayısı Mie'nin yaklaşık 10 katı içinde olanları tercih et. Müşteri verirse onun "Kaydedilenler" koleksiyonundaki Reels'leri de ekle.
 
 ## Adım 1: Hesap listesi
 Aşağıdaki hesapları aç. Her biri için takipçi sayısını not et.
@@ -35,7 +38,7 @@ B2C (dermokozmetik):
 ## Adım 2: Outlier hesaplama
 Her hesap için son 12 Reels'in izlenmesini listele ve **medyanını** hesapla.
 Her Reels için: `izlenme ÷ medyan = outlier skoru`.
-Yalnızca **skoru ≥ 5 olan** videoları (en fazla 15) detaylandır. Hiç yoksa bunu açıkça yaz.
+Yalnızca **skoru ≥ 3 olan** videoları (en fazla 15) detaylandır. 1,5x altı hesabın normal günüdür, hiçbir şey öğretmez. Hiç yoksa bunu açıkça yaz.
 
 ## Adım 3: Her outlier video için kayıt
 `URL | hesap | takipçi | yayın tarihi | süre | izlenme | beğeni | yorum | medyan | outlier skoru`
@@ -60,11 +63,16 @@ Instagram'da şu aramaları yap ve **son 30 günde** yüklenen Reels'lerden en �
 
 Her aramada yorum yap: konu gerçekten bu ay hareketli mi (çok sayıda yeni video + yüksek izlenme), yoksa eski videolar mı öne çıkıyor?
 
+## Adım 4b: YouTube Shorts (Instagram yeterli veri vermezse)
+youtube.com/@[kanal]/shorts sayfasında izlenme sayıları giriş gerekmeden görünür. Aynı hesap türleri için (fason, kozmetik kimyager, dermokozmetik markası) son 12 Shorts'un izlenmesini oku, medyan ve outlier hesapla. Kanca sütununa video başlığını yaz; videoyu açabiliyorsan ilk 3 saniyede söylenen cümleyi birebir yaz.
+
 ## Adım 5: Mie'nin uygun olmayan sonuçlarını ayır
 Videoların içinde şunlar varsa **ayrıca listele, detaylandırma**: tedavi/iyileştirme iddiası, before/after sonuç vaadi, kullanıcı tanıklığı, doktor önerisi, rakip karşılaştırması. Sadece "neden uygun değil" notuyla URL yaz.
 
 ## Çıktı formatı
-Markdown. Başlıklar yukarıdaki adımlar.
+**1) TSV bloğu (zorunlu).** Taranan tüm videoları, outlier olsun olmasın, tek bir kod bloğunda sekmeyle ayrılmış (tab) ver. Başlık satırı: `platform hesap takipci medyan izlenme url tarih sure_sn kanca ekran_metni cta sayfa`. Okuyamadığın hücre boş kalsın, uydurma. Bu blok `tools/swipe.py` ile sıralanacak.
+
+**2) Markdown rapor.** Başlıklar yukarıdaki adımlar.
 En sonda iki bölüm:
 - **Ortak formül:** Outlier videolarda tekrar eden kanca, süre, yapı örüntüsü ve kaç videoda tekrar ettiği
 - **Mie için çıkarımlar:** 5 madde, her biri "ne yapılmalı / ne yapılmamalı"
