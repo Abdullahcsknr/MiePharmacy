@@ -1,0 +1,52 @@
+=== BU METNİ CHATGPT'YE YAPIŞTIR ===
+EKLER (aynı mesaja): sayfa-gorunumu-referans.png, stil-referans-1.png, stil-referans-2.png, stil-referans-3.png + ürün PNG'leri (procapil-sampuan-300ml, panthenol-kopuk-200ml, panthenol-krem-150ml, goz-cevresi-serumu-30ml, c-vitamini-serumu-30ml, yuz-temizleme-jeli-200ml)
+
+Sen Mie Kozmetik'in fason / private label Instagram sayfası (@mie.fabrika) için çalışan üst düzey bir reklam görseli tasarımcısı ve ürün fotoğrafçısısın. Görevin: 5 adet BİTMİŞ, yayına hazır Instagram gönderisi görseli üretmek. Başlıklar, logo ve ikonlar görselin İÇİNDE olacak.
+
+SAYFA STİLİ
+- sayfa-gorunumu-referans.png sayfanın mevcut akışıdır. Baskın ve doğru stil: bordo-beyaz-gümüş fabrika serisi (stil-referans-1/2/3.png). Yeni gönderiler bu seriyi sürdürecek: bulanık, gümüş-mavi-beyaz modern kozmetik üretim tesisi, paslanmaz çelik dolum makineleri, soğuk temiz ışık. Akıştaki stok fotoğraf, kedi ve yeşil afiş gibi dağınık stilleri KULLANMA.
+- Üst: ortalı serif "Mie" logosu + altında ince "DERMATOLOGICAL SKINCARE" (stil-referans-2.png'deki gibi, bordo #8E1B2E; koyu zeminde beyaz). Logoyu referanstaki gibi çiz, yeniden tasarlama.
+- Başlık: kalın, büyük harfli, geometrik sans (Montserrat ExtraBold benzeri), bordo #8E1B2E (açık zeminde) ya da beyaz (koyu zeminde). Alt başlık: aynı fontta ince/normal.
+- Alt: ince çizgilerle ayrılmış ikon+fayda şeridi ya da CTA bandı.
+- KALİTE: Referanslardaki yapay (AI) görünümü kaldır. Gerçek bir endüstriyel/stüdyo reklam fotoğrafı gibi: doğru perspektif, gerçekçi metal-cam yansımaları, temiz kenarlar, deforme nesne yok.
+
+YAZI KURALI (en kritik)
+Aşağıdaki metinleri HARFİ HARFİNE, Türkçe karakterlerle (Ç Ğ İ Ö Ş Ü ç ğ ı ö ş ü) yaz. Ekstra, eksik veya değiştirilmiş kelime OLMASIN. Yazılar büyük, kalın ve mobilde rahat okunur olsun; ürünlerin üstüne gelmesin. Her görsel üretildikten sonra görseldeki yazıyı oku ve verdiğim metinle karşılaştır; tek harf bile farklıysa görseli yeniden üret.
+Her görselde CTA bandı: "DM'den KATALOG yaz".
+
+ÜRÜN KURALLARI
+- "Jenerik" görsellerde: ETİKETSİZ beyaz/buzlu cam/gümüş kapaklı şişe, damlalık, pompa, tüp, kavanoz; üzerlerinde yazı/logo yok.
+- "Mie ürünleri" görselinde ekteki gerçek ürün PNG'lerini BİREBİR koru (şişe şekli, kapak, etiket, Mie logosu, tüm yazılar, renkler, boyut oranları). Her üründen 1 adet. Katalog fotoğraflarının eski arka planını ve sayfa numarası rozetini kullanma.
+- Tıbbi iddia, yeni özellik veya sertifika uydurma. Aşağıda yazmayan hiçbir metin ekleme.
+
+FORMAT: Dikey 1024x1536 üret (ben 4:5'e kırpacağım; logo, başlık ve ürünleri orta %80'e yerleştir). Her mesajda YALNIZCA BİR görsel üret, sonra "Devam?" diye sor.
+
+GÖNDERİ 1 — Kanca (jenerik)
+Başlık: KENDİ KOZMETİK MARKANI KURMAK İSTER MİSİN?
+Alt başlık: Formülasyondan ambalaja anahtar teslim üretim
+Görsel: ön planda etiketsiz beyaz pompalı şişe, gümüş boyunlu damlalıklı cam serum şişesi ve gümüş kapaklı krem kavanozu yan yana, net ve büyük; arkada bulanık dolum makinesi. Açık beyaz-gümüş zemin, bordo başlık.
+
+GÖNDERİ 2 — Süre (jenerik)
+Üstte logo. Çok büyük başlık: 3–6 HAFTA
+Alt başlık: Fason kozmetik üretimde ortalama proje süresi
+Görsel: konveyör üzerinde perspektifle derinliğe uzanan 5 adet damlalıklı serum şişesi (koyu bordo cam, beyaz damlalık, gümüş boyun, BOŞ beyaz etiket), arkada bulanık üretim hattı.
+
+GÖNDERİ 3 — Süreç (jenerik)
+Başlık: FORMÜLDEN RAFA 6 ADIMDA
+Alt şerit (6 sütun, ince çizgiyle ayrılmış, her birinde sade bordo çizgi ikon + yazı, soldan sağa bu sırayla): Stratejik planlama · Formülasyon · Tasarım ve ambalaj · Yasal kayıtlar · Seri üretim ve kalite kontrol · Teslimat
+Görsel: ortada tek hat boyunca laboratuvar behere sıvı, pipet, etiketsiz şişe, dolum makinesi; sade ve temiz.
+
+GÖNDERİ 4 — Kapasite (Mie ürünleri)
+Başlık: KREM, SERUM, ŞAMPUAN, KÖPÜK… HEPSİ BİZİM ÜRETİMİMİZ
+Alt başlık: Markanı da aynı tesiste üretelim
+Görsel: 6 gerçek Mie ürününü (procapil-sampuan-300ml, panthenol-kopuk-200ml, panthenol-krem-150ml, goz-cevresi-serumu-30ml, c-vitamini-serumu-30ml, yuz-temizleme-jeli-200ml) gerçek boyut oranlarıyla (300/200/150 ml olanlar 30 ml serumlardan büyük) paslanmaz çelik üretim tezgâhında, iki sıra, dengeli; arkada bulanık gümüş-mavi üretim tesisi. Etiketler net.
+
+GÖNDERİ 5 — Güven (jenerik)
+Başlık: FORMÜLÜN GİZLİ KALIR
+Alt başlık: Gizlilik sözleşmesiyle korunan private label üretim
+Alt şerit tek satır: Mevcut formülün mü var? Analiz edip seri üretime alalım.
+Görsel: ön planda laboratuvar camında bordo-şeffaf sıvı, yanında etiketsiz damlalıklı şişe ve kapalı beyaz kutu; arkada bulanık dolum hattı; ciddi, güven veren, sade.
+
+HER GÖRSELDEN SONRA tek satırda öz denetim: yazı metinle birebir aynı mı, Türkçe karakterler doğru mu, logo referansla uyumlu mu, yapay/deforme görünüm var mı, Mie ürünlerinde etiket sadakati. Sorun varsa düzeltip yeniden üret.
+
+Başla: GÖNDERİ 1.
