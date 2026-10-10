@@ -12,7 +12,7 @@ Ogilvy: kitleyi işaretleyen soru ile açılış, problem–çözüm, gösterim 
 
 | # | Süre | Ne olur (motion) | Ekran metni | Ses |
 |---|---|---|---|---|
-| A–B | 0–2,5 | Siyah zemin, kelimeler tek tek çarpar (ölçek %140>%100), son kelimede hafif sarsıntı | KOZMETİK SEKTÖRÜNE GİRMEK İSTİYOSUN? | VO + her kelimede bas vuruşu |
+| A–B | 0–2,5 | Siyah zemin, kelimeler tek tek çarpar (ölçek %140>%100), son kelimede hafif sarsıntı | KOZMETİK SEKTÖRÜNE GİRMEK İSTİYOR MUSUN? | VO + her kelimede bas vuruşu |
 | C | 2,5–5,5 | 12 süreç kartı yukarıdan yağar, dönerek yığılır, hızlanır; sayaç 1>12 | FORMÜLASYON · STABİLİTE · MİKROBİYOLOJİK · CHALLENGE TEST · MSDS · PIF · CPSR · ÜTS BİLDİRİMİ · AMBALAJ · ETİKET · GRAFİK TASARIM · SERİ ÜRETİM | Kart düşme sesleri, gerilim |
 | D | 5,5–7 | Kartlar tek kutuya emilir, damga iner | ANAHTAR TESLİM | Damga SFX, müzik susar |
 | E | 7–9 | Kutu küçülür, cümle kelime kelime | Kendi markanı oluşturmak artık çok daha kolay. | VO |
@@ -32,7 +32,7 @@ Ogilvy: kitleyi işaretleyen soru ile açılış, problem–çözüm, gösterim 
 ## Kaynak tablosu (her ifade birebir)
 | İfade | Kaynak |
 |---|---|
-| KOZMETİK SEKTÖRÜNE GİRMEK İSTİYOSUN ? | @mie.fabrika sabit Reels, 11.07.2025 (ekran yazısı) |
+| KOZMETİK SEKTÖRÜNE GİRMEK İSTİYOR MUSUN? | @mie.fabrika sabit Reels, 11.07.2025 ekran yazısı ("İSTİYOSUN ?"), yazımı düzeltildi |
 | FORMÜLASYON, STABİLİTE, MİKROBİYOLOJİK, CHALLENGE TEST, MSDS, PIF, CPSR | @mie.fabrika 28.04.2026 "FASON KOZMETİK ÜRETİM SÜREÇLERİMİZ" + site "Formülasyon Geliştirme" |
 | ÜTS BİLDİRİMİ | @mie.fabrika 24.04.2026 "ÜTS BİLDİRİMİ VE SAĞLIK BAKANLIĞI SÜREÇ YÖNETİMİ" |
 | AMBALAJ, ETİKET, GRAFİK TASARIM | site /fason-uretimimiz/ "grafik tasarımından ambalaj ve etiket seçimlerinize kadar" |
@@ -50,3 +50,12 @@ Ogilvy: kitleyi işaretleyen soru ile açılış, problem–çözüm, gösterim 
 Sayaç "12": ekrandaki kart sayısı (iddia değil, ekranda sayılan kartlar).
 
 Metin gerekçesi ve dış ses: `05-metin.md`
+
+## Görüntü kaynağı (önemli)
+Videodaki **görüntüler** site ya da Instagram'dan değil, **müşterinin arşivinden** (Drive › MiePharm: OneDrive_2, OneDrive_3, Downloads klasörleri) geliyor. Müşteriye cevap: "Sizin paylaştığınız tesis arşivinden." Metinler: site + @mie.fabrika.
+Görüntüde yüzü görünen çalışanlar ve yöneticiler için müşteriden yazılı onay alınmalı.
+
+## Logo
+- Kullanılacak: `kimlik/logo-guncel-siyah.webp` (siyah serif "Mie": site, IG profil, kapanış videosu)
+- Kullanılmayacak: `kimlik/logo-eski-yesil.webp` (eski logo; tesis tabelalarında ve formalarda görünmesi sorun değil)
+- Eldeki siyah logo 280×280 px. Videoda ~600 px genişlikte kullanılacağı için **en az 1200 px PNG ya da SVG** gerekli

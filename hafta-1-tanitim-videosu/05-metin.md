@@ -10,7 +10,7 @@
 | Büyük fikir | 12 zorunlu süreç ekrana yağar, tek "ANAHTAR TESLİM" kutusuna girer. Kutu fabrikanın kapısı olur |
 | Hatırlatıcı (burr) | "ANAHTAR TESLİM" damgası (görüntü + ses + kelime). Videonun başında ve ilk yarısında tekrar eder |
 | Kanıt | Gerçek tesis + somut bilgi: 6 adım, "birebir aynı kalitede seri imalat", "ortalama 3-6 hafta" |
-| Kitleyi işaretle | İlk saniye: "Kozmetik sektörüne girmek istiyosun?" |
+| Kitleyi işaretle | İlk saniye: "Kozmetik sektörüne girmek istiyor musun?" |
 | Marka + vaat başlıkta | 9. sn: "Mie Kozmetik · Fason Üretim Merkezi" fabrika kapısında |
 
 ## v3'e göre yapılan değişiklikler
@@ -27,7 +27,7 @@ Ogilvy: kelime yağmuru öldürür, görüntü anlatsın. Kart yağmuru (2,5–5
 
 | Süre | Cümle |
 |---|---|
-| 0,3 | Kozmetik sektörüne girmek istiyosun? |
+| 0,3 | Kozmetik sektörüne girmek istiyor musun? |
 | 7,0 | Kendi markanı oluşturmak artık çok daha kolay. |
 | 9,2 | Mie Kozmetik, fason üretim merkezi. |
 | 10,6 | Onaylanan numune ile birebir aynı kalitede seri imalat. |
@@ -38,7 +38,7 @@ Müzik: dış ses altında kısık (Ogilvy: müzik hatırlanmayı düşürür), 
 
 ## Instagram açıklaması (ilk 125 karakter = kanca)
 ```
-Kozmetik sektörüne girmek istiyosun? Kendi markanı oluşturmak artık çok daha kolay.
+Kozmetik sektörüne girmek istiyor musun? Kendi markanı oluşturmak artık çok daha kolay.
 
 Mie Kozmetik | Fason Üretim Merkezi 🏭 Kozmetik Markanız için Ar-Ge, Formülasyon ve Bakanlık Bildirimi.
 
