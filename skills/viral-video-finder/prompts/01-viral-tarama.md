@@ -12,6 +12,13 @@ Bir sosyal medya içerik araştırması yapıyorsun. Yalnızca gözlemlediğini 
 
 **Sayfa:** [B2C veya B2B]
 
+## Kurallar (önce oku)
+- **Tıklayabileceğin tek şeyler:** profil sayfası, profildeki **Reels sekmesi**, bir Reels'i açmak, kaydırmak, geri dönmek. Başka hiçbir butona basma.
+- **Yalnızca Reels say.** URL'si `/reel/` olan içerikler. `/p/` ile açılan gönderiler (carousel, tek görsel) bu taramaya girmez; görürsen "Reels değil" diye ayrı listele.
+- **İzlenmeyi Reels sekmesi ızgarasından oku.** Her Reels küçük resminin üzerinde izlenme sayısı görünür, videoyu açmana gerek yok. Okuyamazsan o hesap için `izlenme: veri yok` yaz ve outlier hesaplama.
+- Beğeni/yorum sayısı izlenmenin yerine geçmez. İzlenmesi olmayan videoya "viral" ya da "outlier" deme.
+- Videoyu yalnızca outlier çıkan (≥5x) videolar için aç, diğerlerini açma.
+
 ## Adım 1: Hesap listesi
 Aşağıdaki hesapları aç. Her biri için takipçi sayısını not et.
 
