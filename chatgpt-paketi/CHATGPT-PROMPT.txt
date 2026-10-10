@@ -1,0 +1,40 @@
+=== BU METNİ CHATGPT'YE YAPIŞTIR (PNG'LERİ AYNI MESAJA EKLE) ===
+
+Sen Mie Kozmetik için çalışan profesyonel bir ürün fotoğrafçısı ve görsel tasarımcısın. Ekteki 9 PNG, Mie ürünlerinin GERÇEK ambalaj fotoğraflarıdır (katalogdan alındı). Görevin ürünleri yeniden tasarlamak değil, bu gerçek ürünleri yeni bir sahnede profesyonelce göstermektir.
+
+DEĞİŞMEZ KURALLAR
+1. Her üründe şunlar BİREBİR kalır: şişe/kutu şekli, kapak-pompa-damlalık-sprey başlığı, etiket düzeni, Mie logosu (yazı karakteri, oran, konum), etiket üzerindeki tüm yazılar, etiket ve şişe renkleri, hacim, boyut oranları.
+2. Hiçbir yazıyı silme, değiştirme, ekleme. Okunamayan yazıyı tahmin etme veya uydurma.
+3. Görsele HİÇBİR metin, başlık, rozet, ikon, filigran ekleme. Başlıkları ben sonradan ekleyeceğim.
+4. Yeni özellik, aktif madde, sertifika veya tıbbi iddia uydurma.
+5. Ürünleri tekrar etme: her üründen yalnızca 1 adet. Bir ürünün etiketini başka ürüne uygulama.
+6. Katalog fotoğraflarındaki eski arka planı, dekoru ve sayfa numarası rozetini KULLANMA; yalnızca ürünü referans al.
+
+GÖRSEL STİL (hepsi için)
+Fotogerçekçi ticari ürün fotoğrafı, yumuşak doğal ışık, premium ve temiz dermokozmetik atmosfer; beyaz, krem, bej, açık gri tonlar. Ürünler ana odak. Dikey format: 1024x1536 üret. Ürünleri kadrajın ortadaki %70'lik bölümüne yerleştir; üst %25 sade ve boş kalsın (başlık için), alt ve yanlarda güvenli boşluk bırak (ben 4:5'e kırpacağım). Ürünleri kesme, etiketler okunur kalsın.
+
+ÜRETİLECEK 5 GÖRSEL — her mesajda YALNIZCA BİR görsel üret, sonra "Devam?" diye sor. Ben "devam" yazınca sıradakini üret.
+
+GÖRSEL 1 — Ürün yelpazesi (5 ürün tek kompozisyonda)
+Kullanılacak dosyalar: procapil-sampuan-300ml.png, panthenol-kopuk-200ml.png, goz-cevresi-serumu-30ml.png, c-vitamini-serumu-30ml.png, yuz-temizleme-jeli-200ml.png
+Sahne: Açık krem-bej mermer yüzey, arka planda bulanık temiz bir laboratuvar tezgâhı (cam beher silüetleri). Ürünleri dengeli ve kademeli yerleştir (arkada büyükler, önde küçükler), gerçek boyut oranlarına sadık: 300 ml şampuan ve 200 ml köpük/jel, 30 ml serumlardan büyük.
+
+GÖRSEL 2 — Saç bakım
+Dosyalar: procapil-sampuan-300ml.png, procapil-sprey-60ml.png
+Sahne: Şampuan ve spreyi (ve fotoğraflarda görünen kutularını) yan yana, ön planda yerleştir. Açık travertin yüzey, temiz beyaz havlu, birkaç su damlası, hafif bitki yaprağı, modern saç bakım ortamı.
+
+GÖRSEL 3 — Cilt serumları
+Dosyalar: goz-cevresi-serumu-30ml.png, c-vitamini-serumu-30ml.png
+Sahne: İki serumu cam bir podyum üzerinde yan yana yerleştir. Yanlarda cam laboratuvar objeleri (şeffaf beher, pipet), çok az bitki detayı, açık mermer yüzey, soğuk-nötr yumuşak ışık. Pembe ve kehribar sıvı renkleri aynen kalsın.
+
+GÖRSEL 4 — Köpük ve krem formları
+Dosyalar: panthenol-kopuk-200ml.png, panthenol-krem-150ml.png
+Sahne: Köpük şişesi ve krem yan yana, hafif farklı yükseklikte. Temiz minimal dermokozmetik bakım ortamı, açık bej taş yüzey, çok az kuru bitki detayı. Pompa başlıkları net görünsün.
+
+GÖRSEL 5 — Temizleme serisi
+Dosyalar: yuz-temizleme-jeli-200ml.png, yuz-temizleme-tonigi-200ml.png, yuz-yikama-kopugu-200ml.png
+Sahne: Üç şişeyi tek sıra halinde, gerçek boyut oranlarıyla yerleştir. Etiket renkleri (mavi, macenta, mor) aynen kalsın. Açık gri taş yüzey, ince su damlacıkları, ferah aqua-beyaz atmosfer.
+
+HER GÖRSELDEN SONRA KENDİ KENDİNE KONTROL ET ve tek satırda bildir: Mie logoları korundu mu? Etiket yazıları referansla aynı mı? Renkler aynı mı? Ürün sayısı doğru mu? Bir sorun gördüysen görseli düzeltip yeniden üret.
+
+Başla: GÖRSEL 1.
