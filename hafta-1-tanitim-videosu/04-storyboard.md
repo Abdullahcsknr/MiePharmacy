@@ -16,11 +16,11 @@ Ogilvy: kitleyi işaretleyen soru ile açılış, problem–çözüm, gösterim 
 | C | 2,5–5,5 | 12 süreç kartı yukarıdan yağar, dönerek yığılır, hızlanır; sayaç 1>12 | FORMÜLASYON · STABİLİTE · MİKROBİYOLOJİK · CHALLENGE TEST · MSDS · PIF · CPSR · ÜTS BİLDİRİMİ · AMBALAJ · ETİKET · GRAFİK TASARIM · SERİ ÜRETİM | Kart düşme sesleri, gerilim |
 | D | 5,5–7 | Kartlar tek kutuya emilir, damga iner | ANAHTAR TESLİM | Damga SFX, müzik susar |
 | E | 7–9 | Kutu küçülür, cümle kelime kelime | Kendi markanı oluşturmak artık çok daha kolay. | VO |
-| F | 9–10,5 | Kutu kapı gibi açılır, koridordan içeri hızlı itme | FASON ÜRETİMDE DOĞRU ADRES | Whoosh + bas drop, müzik başlar |
-| G | 10,5–12 | Dev dolum hattı tam ekran, yavaş zoom-out | Kaliteli üretim, güçlü iş ortaklığı. | VO |
+| F | 9–10,5 | Kutu kapı gibi açılır, koridordan içeri hızlı itme | MİE KOZMETİK · FASON ÜRETİM MERKEZİ | VO + whoosh, bas drop, müzik başlar |
+| G | 10,5–12 | Dev dolum hattı tam ekran, yavaş zoom-out | Onaylanan numune ile birebir aynı kalitede seri imalat | VO |
 | H–J | 12–18 | İlerleme çubuğu 01>06; referans stildeki pencere yerinde kalır, görüntü ve etiket değişir, alttaki kart tik alır. 05'te pencere içinde 3 hızlı kesme | 6 adım adı (site) | Her adımda "tik" sesi, vuruşa kesme |
-| K | 18–21 | 9 pencere aynı anda açılır (60 ms aralıkla), hepsi gerçek makine | Tek nokta. Tam güven. | VO |
-| L | 21–25 | Beyaza geçiş, orijinal logo, kapanış cümlesi kelime kelime; CTA nabız gibi | Markanı oluştur, üretimini bize bırak. · DM ile iletişime geçin · miepharma.com | VO, müzik çözülür |
+| K | 18–21 | 9 pencere aynı anda açılır (60 ms aralıkla); süre sayaçla dolar | ORTALAMA PROJE SÜRESİ 3-6 hafta* · *Proje bazlı yeni ürünler için ek süre gerekebilir. | VO |
+| L | 21–25 | Beyaza geçiş, orijinal logo, kapanış cümlesi kelime kelime; CTA nabız gibi | Markanı oluştur, üretimini bize bırak. · Teklif ve Katalog İçin İletişime Geçin · miepharma.com | VO, müzik çözülür |
 
 ## Tipografi (Reels standardı, kurumsal font)
 - **Montserrat** (site fontu): kanca/başlık Black 900, 110–150 px, BÜYÜK HARF, satır başına en fazla 12–14 karakter
@@ -39,22 +39,14 @@ Ogilvy: kitleyi işaretleyen soru ile açılış, problem–çözüm, gösterim 
 | SERİ ÜRETİM | site adım 5 "Seri Üretim ve Kalite Kontrol" |
 | ANAHTAR TESLİM | @mie.fabrika 05.12.2025 "ANAHTAR TESLİM FASON ÜRETİM HİZMETİ" |
 | Kendi markanı oluşturmak artık çok daha kolay. | @mie.fabrika 4 gönderi (29.04, 27.04, 17.04, 09.04.2026) |
-| FASON ÜRETİMDE DOĞRU ADRES | @mie.fabrika 22.04.2026 |
-| Kaliteli üretim, güçlü iş ortaklığı | @mie.fabrika 22.04 ve 16.04.2026 |
+| Mie Kozmetik \| Fason Üretim Merkezi | @mie.fabrika bio |
+| Onaylanan numune ile birebir aynı kalitede seri imalat | site adım 5 cümlesinden kesit |
+| Ortalama proje süresi 3-6 hafta / *Proje bazlı yeni ürünler için ek süre gerekebilir. | site /fason-proje-hazirliklari/ |
 | 6 adım adları | site /fason-kozmetik-uretimi/ |
-| Tek nokta. Tam güven. | @mie.fabrika 09.04.2026 |
 | Markanı oluştur, üretimini bize bırak. | @mie.fabrika 09.04.2026 (hesabın en çok etkileşim alan görseli) |
-| DM ile iletişime geçin | @mie.fabrika 09.04.2026 |
+| Teklif ve Katalog İçin İletişime Geçin | @mie.fabrika bio |
 | miepharma.com | IG bio |
 
 Sayaç "12": ekrandaki kart sayısı (iddia değil, ekranda sayılan kartlar).
 
-## Dış ses (~30 kelime)
-Kozmetik sektörüne girmek istiyosun? · Kendi markanı oluşturmak artık çok daha kolay. · Kaliteli üretim, güçlü iş ortaklığı. · Tek nokta. Tam güven. · Markanı oluştur, üretimini bize bırak.
-(Tamamı @mie.fabrika ifadesi, "sen" hitabı tutarlı.)
-
-## Açık noktalar
-- "İSTİYOSUN" hesaptaki yazımı. Ekranda "İSTİYOR MUSUN?" yazmak için müşteri onayı gerekir
-- Tam ekran sahneler (F, G) için bu kliplerin **1080p kısa kesitleri** gerekiyor (şu anki 720p/480p kopyalar tam ekranda bulanık): MIE_3, MIE_30, MIE_7, MIE_28, MIE_38, MIE_9
-- Orijinal logo dosyası
-- Görüntü–adım eşleşmeleri temsili
+Metin gerekçesi ve dış ses: `05-metin.md`

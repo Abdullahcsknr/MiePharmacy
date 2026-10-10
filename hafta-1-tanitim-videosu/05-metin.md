@@ -1,48 +1,46 @@
-# Aşama 5 — Metin (yalnızca birebir site / IG ifadeleri)
+# Aşama 5 — Metin v4 (Ogilvy düzenlemesi)
 
-Kaynak: Claude in Chrome taraması, 10.10.2026. Site metinlerindeki yazım aynen korunmuştur.
-Ogilvy: kitleyi işaretleyen ve vaat içeren açılış ("Hayalinizdeki markayı…"), tek vaat (anahtar teslim), kanıt = gerçek tesis + 6 adım, kapanışta tek çağrı. Müzik dış sesin altında kısık.
+> Kural: her ifade miepharma.com ya da @mie.fabrika'da birebir geçer. Kaynaklar: `04-storyboard.md` tablosu.
 
-## Dış ses (~45 sn, ~90 kelime)
-
-| # | Cümle (birebir) | Kaynak |
-|---|---|---|
-| 1 | Hayalinizdeki markayı gerçeğe dönüştürün. | miepharma.com/fason-kozmetik-uretimi/ (başlık: "HAYALİNİZDEKİ MARKAYI GERÇEĞE DÖNÜŞTÜRÜN") |
-| 2 | Proje, formülasyonundan laboratuvar testlerine grafik tasarımından ambalaj ve etiket seçimlerinize kadar anahtar teslimi olarak sunulur. | miepharma.com/fason-uretimimiz/ |
-| 3 | Marka hedeflerinizi ve hedef kitlenizi analiz ederek işe başlıyoruz. | /fason-kozmetik-uretimi/ adım 1 |
-| 4 | Laboratuvarımızda size özel numuneler hazırlıyor, testlerden (stabilite, mikrobiyoloji) geçiriyoruz. | adım 2 |
-| 5 | Marka kimliğinize uygun ambalaj alternatifleri ve grafik tasarım desteği sunuyoruz. | adım 3 |
-| 6 | Tüm ürünlerin yönetmeliklere uygunluğunu sağlıyor ve kayıt süreçlerini tamamlıyoruz. | adım 4 |
-| 7 | Onaylanan numune ile birebir aynı kalitede seri imalatı gerçekleştiriyoruz. | adım 5 |
-| 8 | Ürünlerinizi güvenli bir şekilde paketleyip satışa hazır halde teslim ediyoruz. | adım 6 |
-| 9 | Size sadece bir fabrika değil, stratejik bir çözüm ortaklığı sunuyoruz. | /fason-kozmetik-uretimi/ |
-| 10 | Başarı hikayenizi bugün başlatın. | /fason-kozmetik-uretimi/ (başlık: "BAŞARI HİKAYENİZİ BUGÜN BAŞLATIN") |
-
-Seslendirme notu: 4. cümlede parantez "testlerden, stabilite ve mikrobiyoloji, geçiriyoruz" diye okunur; ekranda parantezli hali yazar.
-
-## Ekran metinleri
-
-| Metin | Kaynak |
+## Ogilvy teşhisi
+| Soru | Cevap |
 |---|---|
-| ANAHTAR TESLİM | @mie.fabrika sabit carousel 05.12.2025: "ANAHTAR TESLİM FASON ÜRETİM HİZMETİ" |
-| FASON KOZMETİK & DERMOKOZMETİK ÜRETİMLER | miepharma.com üst bant |
-| Stratejik Planlama · Formülasyon Geliştirme · Tasarım ve Ambalaj Seçimi · Yasal Kayıtlar · Seri Üretim ve Kalite Kontrol · Teslimat | /fason-kozmetik-uretimi/ "ADIM ADIM FASON KOZMETİK ÜRETİM SÜRECİMİZ" |
-| Tüm dermokozmetik ürünlerin üretimi | miepharma.com ana slayt: "TÜM DERMOKOZMETİK ÜRÜNLERİN ÜRETİMİ" |
-| ÜRÜN DOLUMLARI | miepharma.com ana slayt |
-| SERİ ÜRETİM · KALİTE KONTROL | adım 5 adından |
-| AMBALAJ | adım 3 adından |
-| ORTALAMA PROJE SÜRESİ 3–6 hafta | /fason-proje-hazirliklari/: "Ortalama proje süresi 3-6 hafta arasında sonuçlanmaktadır." |
-| *Proje bazlı yeni ürünler için ek süre gerekebilir. | /fason-proje-hazirliklari/ |
-| ÇÖZÜM ORTAKLIĞI | /fason-kozmetik-uretimi/: "stratejik bir çözüm ortaklığı" |
-| Teklif ve Katalog İçin İletişime Geçin | @mie.fabrika bio |
-| miepharma.com | IG bio bağlantısı |
+| Konumlandırma | Kozmetik sektörüne girmek isteyen ama formül, test, dosya ve bakanlık yükünden çekinen girişimci. Mie = anahtar teslim fason üretim merkezi |
+| Tek vaat | **Kendi markanı oluşturmak artık çok daha kolay.** (fayda: kolaylık) |
+| Büyük fikir | 12 zorunlu süreç ekrana yağar, tek "ANAHTAR TESLİM" kutusuna girer. Kutu fabrikanın kapısı olur |
+| Hatırlatıcı (burr) | "ANAHTAR TESLİM" damgası (görüntü + ses + kelime). Videonun başında ve ilk yarısında tekrar eder |
+| Kanıt | Gerçek tesis + somut bilgi: 6 adım, "birebir aynı kalitede seri imalat", "ortalama 3-6 hafta" |
+| Kitleyi işaretle | İlk saniye: "Kozmetik sektörüne girmek istiyosun?" |
+| Marka + vaat başlıkta | 9. sn: "Mie Kozmetik · Fason Üretim Merkezi" fabrika kapısında |
 
-## Instagram açıklaması
+## v3'e göre yapılan değişiklikler
+| Çıkan | Neden (Ogilvy) | Yerine |
+|---|---|---|
+| "FASON ÜRETİMDE DOĞRU ADRES" | Övgü sloganı, bilgi taşımıyor; marka adı yok | **Mie Kozmetik · Fason Üretim Merkezi** (marka + ne yaptığı) |
+| "Kaliteli üretim, güçlü iş ortaklığı." | "Kaliteli" sıfatı kanıtlanmamış övgü | **Onaylanan numune ile birebir aynı kalitede seri imalat** (somut taahhüt) |
+| "Tek nokta. Tam güven." | Üçüncü slogan, vaadi dağıtıyor | **Ortalama proje süresi 3-6 hafta** (rakam, sıfattan güçlü) |
+| "DM ile iletişime geçin" | Ne alacağını söylemiyor | **Teklif ve Katalog İçin İletişime Geçin** (somut teklif: teklif + katalog; bio ile aynı) |
+| — | Kazananı tekrarla | Kapanış cümlesi "Markanı oluştur, üretimini bize bırak." hesabın en çok etkileşim alan görselinden |
 
+## Dış ses (ElevenLabs) — 6 cümle, ~35 kelime
+Ogilvy: kelime yağmuru öldürür, görüntü anlatsın. Kart yağmuru (2,5–5,5 sn) **sessiz**, sadece efekt.
+
+| Süre | Cümle |
+|---|---|
+| 0,3 | Kozmetik sektörüne girmek istiyosun? |
+| 7,0 | Kendi markanı oluşturmak artık çok daha kolay. |
+| 9,2 | Mie Kozmetik, fason üretim merkezi. |
+| 10,6 | Onaylanan numune ile birebir aynı kalitede seri imalat. |
+| 18,3 | Ortalama proje süresi 3-6 hafta. |
+| 21,5 | Markanı oluştur, üretimini bize bırak. |
+
+Müzik: dış ses altında kısık (Ogilvy: müzik hatırlanmayı düşürür), sessiz anlarda (kart yağmuru, adım montajı) öne çıkar.
+
+## Instagram açıklaması (ilk 125 karakter = kanca)
 ```
-Hayalinizdeki markayı gerçeğe dönüştürün.
+Kozmetik sektörüne girmek istiyosun? Kendi markanı oluşturmak artık çok daha kolay.
 
-Proje, formülasyonundan laboratuvar testlerine grafik tasarımından ambalaj ve etiket seçimlerinize kadar anahtar teslimi olarak sunulur.
+Mie Kozmetik | Fason Üretim Merkezi 🏭 Kozmetik Markanız için Ar-Ge, Formülasyon ve Bakanlık Bildirimi.
 
 Ortalama proje süresi 3-6 hafta arasında sonuçlanmaktadır.
 
@@ -52,10 +50,6 @@ Ortalama proje süresi 3-6 hafta arasında sonuçlanmaktadır.
 ```
 | Satır | Kaynak |
 |---|---|
-| 1–3 | yukarıdaki site kaynakları |
-| 4 | @mie.fabrika bio |
-| Etiketler | iddia değil, kategori etiketi (fason, private label, dermokozmetik site ifadeleri) |
-
-## Kullanılmayanlar (kaynak var ama riskli)
-- Sertifikalar: belgeler süresi dolmuş görünüyor
-- "Sağlık Bakanlığı GMP": belge görseli yok
+| 1 | @mie.fabrika (11.07.2025 Reels + 4 gönderi) |
+| 2, 4 | @mie.fabrika bio |
+| 3 | site /fason-proje-hazirliklari/ |
