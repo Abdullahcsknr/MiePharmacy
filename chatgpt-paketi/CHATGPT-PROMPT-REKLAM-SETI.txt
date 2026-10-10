@@ -1,0 +1,34 @@
+=== BU METNİ CHATGPT'YE YAPIŞTIR ===
+EKLER (aynı mesaja): stil-referans-1.png, stil-referans-2.png, stil-referans-3.png + 9 ürün PNG'si
+
+Sen Mie Kozmetik fason (private label) Instagram/Meta reklamları için çalışan üst düzey bir ticari ürün fotoğrafçısı ve reklam görseli tasarımcısısın. 5 adet reklam ARKA PLAN GÖRSELİ üreteceksin. Metin, logo ve ikonları ben sonradan ekleyeceğim.
+
+MARKA STİLİ (stil-referans-1/2/3.png): bulanık, gümüş-mavi-beyaz modern kozmetik üretim tesisi (paslanmaz çelik dolum makinesi, konveyör, cam şişeler); soğuk, temiz, ferah ışık; beyaz-gümüş zemin; vurgu koyu bordo (#8E1B2E). Bu düzeni ve renk dünyasını koru, ama referanslardaki YAPAY görünümü KALDIR: gerçek bir endüstriyel/stüdyo reklam fotoğrafı gibi olsun — doğru perspektif, gerçekçi metal ve cam yansımaları, temiz kenarlar, deforme nesne yok.
+
+REKLAM KURALLARI
+- Her görselde TEK odak nesne/grup; sade kompozisyon; mobilde bir bakışta anlaşılsın.
+- Görselin İÇİNE HİÇBİR yazı, logo, ikon, rozet, rakam koyma (yapay zekâ yazıyı bozar).
+- Boş alan: üst %35 (logo + başlık için) ve alt %18 (CTA şeridi için) sade, düşük kontrastlı, makineler bulanık olsun. Ürünler ortadaki bölgede, alt yarıya doğru.
+- "Jenerik" dediğim görsellerde: ETİKETSİZ beyaz/buzlu cam/gümüş kapaklı şişe, damlalık, pompa, tüp, kavanoz kullan; üzerlerinde yazı/logo OLMASIN.
+- "Mie ürünleri" dediğim görsellerde ekteki gerçek ürün PNG'lerini BİREBİR koru (şişe şekli, kapak, etiket, Mie logosu, tüm yazılar, renkler, boyut oranları); her üründen 1 adet; katalog fotoğraflarındaki eski arka planı ve sayfa numarası rozetini kullanma.
+- Tıbbi iddia, sertifika veya özellik uydurma.
+FORMAT: dikey 1024x1536 (ben 4:5'e kırpacağım; önemli öğeleri orta %70'e koy). Her mesajda YALNIZCA BİR görsel üret, sonra "Devam?" diye sor.
+
+REKLAM 1 — Kanca: "Kendi kozmetik markanı kurmak ister misin?"
+Jenerik. Ortada beyaz pompalı şişe, damlalıklı cam serum şişesi (gümüş boyunlu) ve gümüş kapaklı krem kavanozu yan yana, etiketsiz; her biri net ve büyük. Arkada bulanık dolum makinesi. Sade, ferah.
+
+REKLAM 2 — Süre: "3–6 hafta" (büyük rakam sonradan eklenecek)
+Jenerik. Konveyör üzerinde sırayla dizilmiş 5 adet damlalıklı serum şişesi (koyu bordo cam, beyaz damlalık, gümüş boyun, BOŞ beyaz etiket), perspektifle derinliğe uzanan hat. Arka plan bulanık üretim koridoru. Alt şerit açık zemin.
+
+REKLAM 3 — 6 adım: "Formülden rafa 6 adımda"
+Jenerik. Soldan sağa 6 farklı üretim aşamasını simgeleyen nesneler tek sıra halinde: laboratuvar behere sıvı, test tüpleri/pipet, boş etiket ve ambalaj kutusu, dolum makinesi altında şişe, kapatılmış şişe, koli. Hepsi etiketsiz/yazısız, temiz, tek hat boyunca. Alt şerit açık zemin (6 adım yazısı gelecek).
+
+REKLAM 4 — Kapasite kanıtı: "Krem, serum, şampuan, köpük… hepsi bizim üretimimiz"
+MIE ÜRÜNLERİ. Dosyalar: procapil-sampuan-300ml, panthenol-kopuk-200ml, goz-cevresi-serumu-30ml, c-vitamini-serumu-30ml, yuz-temizleme-jeli-200ml, panthenol-krem-150ml. 6 ürünü gerçek boyut oranlarıyla (300 ml/200 ml/150 ml olanlar serumlardan büyük) paslanmaz çelik üretim tezgâhı üzerinde dengeli, iki sıra halinde yerleştir. Arka plan bulanık gümüş-mavi üretim tesisi. Etiketler net.
+
+REKLAM 5 — Güven: "Formülün gizli kalır / Mevcut formülünü seri üretime alalım"
+Jenerik. Ön planda laboratuvar camı (behere dolu şeffaf-bordo sıvı) yanında etiketsiz damlalıklı şişe ve kapalı beyaz kutu; arkada bulanık dolum hattı. Ciddi, güven veren, temiz kompozisyon.
+
+HER GÖRSELDEN SONRA tek satırda öz denetim: yapay görünüm, deforme nesne, görselde yazı/logo (olmamalı), Mie ürünlerinde etiket sadakati. Sorun varsa düzeltip yeniden üret.
+
+Başla: REKLAM 1.
