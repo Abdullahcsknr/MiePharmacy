@@ -1,11 +1,11 @@
 # Claude in Chrome Promptu — Aşama 8: ElevenLabs Seslendirme
 
 > Bunu Claude in Chrome'a yapıştır. ElevenLabs hesabında oturum açık olmalı.
-> İndirilen 6 MP3'ü bana gönder; videoya sahne zamanlarına göre ben yerleştireceğim.
+> İndirilen 7 MP3'ü bana gönder; videoya sahne zamanlarına göre ben yerleştireceğim.
 
 ---
 
-elevenlabs.io'da Türkçe bir Reels videosu için 6 kısa seslendirme üreteceksin. Hesapta oturum açık. Ücretli bir işlem (abonelik yükseltme, kredi satın alma) çıkarsa **durdur ve bana sor**. Hiçbir ayarı kalıcı olarak değiştirme, ses klonlama yapma.
+elevenlabs.io'da Türkçe bir Reels videosu için 7 kısa seslendirme üreteceksin. Hesapta oturum açık. Ücretli bir işlem (abonelik yükseltme, kredi satın alma) çıkarsa **durdur ve bana sor**. Hiçbir ayarı kalıcı olarak değiştirme, ses klonlama yapma.
 
 **1. Ses seçimi**
 - Text to Speech ekranını aç. Model: **Eleven Multilingual v2** (listede "Eleven v3" varsa onu da dene, Türkçe telaffuzu daha doğal olanı seç).
@@ -27,6 +27,7 @@ Metni harfi harfine kullan, değiştirme.
 | 04_kanit.mp3 | Onaylanan numune ile birebir aynı kalitede seri imalat. | ≤ 3,0 sn |
 | 05_sure.mp3 | Ortalama proje süresi üç ila altı hafta. | ≤ 2,8 sn |
 | 06_kapanis.mp3 | Markanı oluştur, üretimini bize bırak. | ≤ 2,8 sn |
+| 07_cagri.mp3 | Teklif ve katalog için iletişime geçin. | ≤ 2,4 sn |
 
 **4. Telaffuz kontrolü**
 - "Mie" kelimesi **"Mi-e"** diye okunmalı ("May" ya da "Mi" değil). Yanlış okursa metinde "Mi-e Kozmetik" yazarak tekrar üret ve hangisinin doğru çıktığını not et.

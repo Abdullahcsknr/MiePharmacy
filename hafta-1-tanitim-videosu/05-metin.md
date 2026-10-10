@@ -22,7 +22,7 @@
 | "DM ile iletişime geçin" | Ne alacağını söylemiyor | **Teklif ve Katalog İçin İletişime Geçin** (somut teklif: teklif + katalog; bio ile aynı) |
 | — | Kazananı tekrarla | Kapanış cümlesi "Markanı oluştur, üretimini bize bırak." hesabın en çok etkileşim alan görselinden |
 
-## Dış ses (ElevenLabs) — 6 cümle, ~35 kelime
+## Dış ses (ElevenLabs) — 7 cümle, ~40 kelime
 Ogilvy: kelime yağmuru öldürür, görüntü anlatsın. Kart yağmuru (2,5–5,5 sn) **sessiz**, sadece efekt.
 
 | Süre | Cümle |
@@ -33,6 +33,7 @@ Ogilvy: kelime yağmuru öldürür, görüntü anlatsın. Kart yağmuru (2,5–5
 | 10,6 | Onaylanan numune ile birebir aynı kalitede seri imalat. |
 | 18,3 | Ortalama proje süresi 3-6 hafta. |
 | 21,5 | Markanı oluştur, üretimini bize bırak. |
+| 23,5 | Teklif ve katalog için iletişime geçin. (IG bio; Ogilvy: çağrı sesli de söylenmeli. Not: "siz" hitabı, birebir kaynak kuralı gereği) |
 
 Müzik: dış ses altında kısık (Ogilvy: müzik hatırlanmayı düşürür), sessiz anlarda (kart yağmuru, adım montajı) öne çıkar.
 
