@@ -33,6 +33,21 @@ Regülasyon: 🟢 sorun yok · 🟡 doğrulama gerek · 🔴 yapılmaz. `[DOĞRU
 | 9 | **"Dubai'de Arapça tanıtım: Mie dünyada."** Fuar ve ihracat hikâyesi | Carousel + 20 sn | M | **Arşiv:** fuar kayıtları, TR/EN/AR tanıtımlar | Yıllar, fuar adları, ihracat ülkeleri `[DOĞRULA]` | 🟢 |
 | 10 | **"Stok fotoğraf değil, bizim fabrika."** Gerçek tesis turu, 3 oda, 3 cümle | 30 sn | M / İK | Yeni çekim | Çekim izni | 🟢 |
 
+## Yapay zekâ avatar kullanımı
+
+Mie'nin kendi kuralı (`level-0/02-regulasyon-kontrol-listesi.md`): **"AI ile üretilmiş sahte uzman / sahte hasta yok."** Bu yüzden avatar, uzman ya da gerçek çalışan gibi sunulamaz.
+
+| Fikir | Avatar | Neden |
+|---|---|---|
+| #1 brief, #3 formül sahipliği, #5 beş adım, #6 süre, #7 ÜTS | ✅ Anlatıcı olarak olabilir | Bilgilendirme içeriği, ürün iddiası yok. Anlatıcı "Mie'nin sunucusu" olarak açıkça etiketlenir |
+| #2 5 soru | ⚠️ Avatar soruyu sorar, cevabı Mie'den **gerçek kişi ya da yazılı kart** verir | Sertifika/taahhüt cevabı yapay yüzden gelmemeli |
+| #4 dolum hattı, #9 Dubai/fuar | ❌ Gerek yok | Gerçek görüntü zaten güçlü |
+| #8 formülatör, #10 fabrika turu | ❌ Olmaz | Bu fikirlerin tüm değeri **gerçek insan ve gerçek tesis** |
+
+Kurallar: avatar **gerçekçi sahte insan** değil, açıkça stilize bir marka sunucusu olsun. "Uzman", "formülatör", "doktor" gibi unvan verilmez. Ürün tavsiyesi, tanıklık ve sonuç vaadi yok.
+Instagram'ın yapay zekâ içerik etiketi kurallarını yayın öncesi kontrol et ve gerekiyorsa etiketi kullan. Sesi gerçekten üreten araç lisansını ve marka onayını ayrıca doğrula.
+**Karar Mie'nin pazarlama ve regülasyon sorumlusunda;** onay almadan avatarlı video yayınlanmaz.
+
 ## Önerilen ilk 3 hafta (6 video, test)
 
 | Hafta | İçerik | Neden |
