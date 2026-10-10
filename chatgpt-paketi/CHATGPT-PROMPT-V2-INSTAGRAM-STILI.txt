@@ -1,0 +1,45 @@
+=== BU METNİ CHATGPT'YE YAPIŞTIR ===
+EKLER (aynı mesaja): stil-referans-1.png, stil-referans-2.png, stil-referans-3.png + 9 ürün PNG'si (procapil-*, panthenol-*, yuz-*, c-vitamini-*, goz-cevresi-*)
+
+Sen Mie Kozmetik fason (private label) Instagram sayfası için çalışan üst düzey bir ticari ürün fotoğrafçısı ve reklam görseli tasarımcısısın.
+
+STİL REFERANSI (stil-referans-1/2/3.png)
+Bu üç görsel sayfanın mevcut tasarım dilidir. Kompozisyon düzenini, renk dünyasını ve yerleşimi KORU:
+- Arka plan: bulanık, gümüş-mavi-beyaz modern kozmetik üretim tesisi (paslanmaz çelik dolum makinesi, konveyör, cam şişeler). Soğuk, temiz, ferah ışık.
+- Üst bölüm: ortalanmış serif "Mie" logosu + altında ince "DERMATOLOGICAL SKINCARE" yazısı; hemen altında kalın büyük harfli başlık; altında kısa alt başlık.
+- Ön plan: ürünler alt yarıda, gerçekçi ve net.
+- Alt bölüm (bazı görsellerde): ince çizgilerle ayrılmış 3 veya 5 sütunlu ikon + kısa fayda şeridi.
+- Renk: beyaz, gümüş, açık mavi-gri zemin; vurgu rengi koyu bordo (#8E1B2E).
+ANCAK KALİTE ÇOK DAHA YÜKSEK OLMALI: referanslardaki gibi yapay (AI) görünmesin. Gerçek bir stüdyo/endüstriyel reklam fotoğrafı gibi olsun: doğru perspektif, gerçekçi metal ve cam yansımaları, temiz kenarlar, bozuk/deforme nesne yok, anlamsız yazı yok.
+
+METİN KURALI (çok önemli)
+Görsellerin İÇİNE HİÇBİR YAZI, logo, ikon, rozet koyma. Yapay zekâ yazıları bozuyor (referanslarda "Gelişmj üretim altyapsi" gibi hatalar var). Bunun yerine metinlerin geleceği alanları SADE ve BOŞ bırak:
+- Üst %32: logo + başlık + alt başlık için açık, sade arka plan (makineler bulanık ve düşük kontrastlı olsun).
+- Alt %15 (yalnızca 2. ve 3. görsel): ikon şeridi için sade açık zemin.
+Yazıları, logoyu ve ikonları ben sonradan ekleyeceğim.
+
+ÜRÜN KURALLARI
+- "Genel (private label)" dediğim görsellerde: etiketsiz, beyaz/buzlu cam/gümüş kapaklı jenerik şişe, damlalık, pompalı şişe, tüp, kavanoz ve kutu kullan. Üzerlerinde yazı/logo OLMASIN.
+- "Mie ürünleri" dediğim görsellerde: ekteki gerçek ürün PNG'lerini BİREBİR koru (şişe şekli, kapak, etiket, Mie logosu, tüm yazılar, renkler, boyut oranları). Etiketi değiştirme, yazı ekleme/silme, yeniden tasarlama. Her üründen 1 adet. Katalog fotoğraflarındaki eski arka planı ve sayfa numarası rozetini kullanma.
+- Hiçbir tıbbi iddia, sertifika veya özellik uydurma.
+
+FORMAT: Dikey 1024x1536 üret (ben 4:5'e kırpacağım; ana öğeleri orta %70'e yerleştir). Her mesajda YALNIZCA BİR görsel üret, sonra "Devam?" diye sor.
+
+GÖRSEL 1 — Özel marka kozmetik üretimi (genel)
+Sol-orta: paslanmaz çelik dolum makinesi bir cam kavanoza krem dolduruyor (gerçekçi, krem akışı net). Ön plan alt yarıda sağda: beyaz pompalı şişe, damlalıklı cam serum şişesi (gümüş boyunlu), gümüş kapaklı beyaz krem kavanozu, hepsi etiketsiz. Arka plan bulanık gümüş-mavi üretim tesisi. Üst %32 sade ve boş.
+
+GÖRSEL 2 — Fason kozmetik üretim (genel)
+Konveyör üzerinde sırayla dizilmiş 5 adet damlalıklı serum şişesi (koyu bordo-kırmızı cam, beyaz kauçuk damlalık, gümüş boyun, BOŞ beyaz etiket). Sol arkada dolum makinesi ve bir krem kavanozu. Arka plan bulanık, beyaz-gümüş üretim hattı. Üst %32 sade boş, alt %15 açık sade zemin.
+
+GÖRSEL 3 — Private label ürün ailesi (genel)
+Mermer podyumlar üzerinde jenerik ürün ailesi: buzlu cam damlalıklı şişe (altın kapak), pompalı losyon şişesi, beyaz tüp, kavanozlar (altın ve gümüş kapak), şeffaf serum şişesi ve beyaz kutu; yanında bir dal kuru bitki. Arka plan: parlak, bulanık üretim koridoru. Hepsi etiketsiz. Üst %32 sade boş, alt %15 açık sade zemin.
+
+GÖRSEL 4 — Mie ürünleri, üretim hattından (gerçek ürünler)
+Dosyalar: procapil-sampuan-300ml, panthenol-kopuk-200ml, goz-cevresi-serumu-30ml, c-vitamini-serumu-30ml, yuz-temizleme-jeli-200ml. 5 ürünü gerçek boyut oranlarıyla (300 ml ve 200 ml olanlar serumlardan büyük), konveyör/paslanmaz tezgâh üzerinde dengeli sırala. Arka plan Görsel 1'deki gibi bulanık gümüş-mavi üretim tesisi. Üst %32 sade boş.
+
+GÖRSEL 5 — Mie temizleme serisi (gerçek ürünler)
+Dosyalar: yuz-temizleme-jeli-200ml, yuz-temizleme-tonigi-200ml, yuz-yikama-kopugu-200ml, procapil-sampuan-300ml, panthenol-krem-150ml. Aynı üretim tesisi atmosferi, ürünler tek sıra, etiketler net. Üst %32 sade boş.
+
+HER GÖRSELDEN SONRA tek satırda öz denetim: yapay görünüm var mı, deforme nesne var mı, görselde yazı/logo var mı (olmamalı), Mie ürünlerinde etiketler referansla aynı mı? Sorun varsa düzeltip yeniden üret.
+
+Başla: GÖRSEL 1.
