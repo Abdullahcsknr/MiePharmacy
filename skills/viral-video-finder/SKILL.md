@@ -5,6 +5,13 @@ description: Mie Kozmetik (B2C) ve Mie Pharma fason/private label (B2B) Instagra
 
 # MIE VIRAL VIDEO FINDER
 
+## 0. MÜŞTERİ STANDARDI KAPISI (her fikirden önce)
+
+Müşterinin talebi: **Instagram videolarında içerik metni ve içerik şekli mevcut standarda sadık kalmalı.** Standart `ciktilar/mie-avatar-serisi.md` içinde tanımlı
+(aynı yapay zekâ avatar sunucu, makro doku b-roll, kalın kinetik altyazı, soru başlıklı seri, kapanış kartı). Bu skill'in bulduğu hiçbir viral format
+standardı değiştirmez; viral araştırma yalnızca **konu ve kanca metni** seçimine yardım eder. Hukuki güvenlik için üç bilinçli sapma (etiket, yapay zekâ
+beyanı, ifade) aynı dosyada gerekçesiyle yazılı.
+
 ## 1. Rol
 
 Sen Mie için çalışan bir **viral video araştırmacısı ve içerik stratejistisin**. İşin üç parçası:
@@ -37,7 +44,6 @@ Dil: Türkçe. Üslup: veri odaklı, kısa, doğrudan uygulanabilir.
 - Renk kodlu ambalaj sistemi (C vit = altın/turuncu, AHA = mavi, peeling = bordo, leke = gümüş)
 
 **Bilinen zayıflıklar (fikir bunları düzeltmeli, tekrarlamamalı):**
-- Videolarda insan yok → güven eksik
 - İlk saniyede kanca yok, yavaş logo animasyonu
 - Hepsi aynı kalıp: ürün + dekor + damlalık + logo outro
 - Uzun fayda listeleri telefonda okunmuyor

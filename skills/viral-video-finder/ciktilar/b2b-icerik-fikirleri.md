@@ -35,8 +35,7 @@ Regülasyon: 🟢 sorun yok · 🟡 doğrulama gerek · 🔴 yapılmaz. `[DOĞRU
 
 ## Not (iptal edilen bölüm)
 
-Avatar önerisi geri çekildi. Müşterinin standardı konuşan gerçek bir uzman + makro doku çekimi + kinetik altyazı +
-kapanış kartıdır. Güncel fikirler ve şablon: `mie-uzman-serisi.md`.
+Müşterinin standardı: aynı yapay zekâ avatar sunucu + makro doku çekimi + kinetik altyazı + kapanış kartıdır. Güncel fikirler ve şablon: `mie-avatar-serisi.md`.
 
 ## Önerilen ilk 3 hafta (6 video, test)
 
