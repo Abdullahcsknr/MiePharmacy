@@ -1,0 +1,18 @@
+=== 5 GÖRSEL İÇİN "ÜRÜNLERİ SİL" PROMPTLARI ===
+Gönderi 1 ve 2 hazır (kullan). Kalan 5 görsel için: ChatGPT'nin ürettiği ilgili görseli yeni bir mesaja ekle, aşağıdaki promptu yapıştır. Çıkan ürünsüz sahneleri bana getir; gerçek ürünleri ben yerleştiririm.
+Sıra: (A) Ürün ailesi  (B) Procapil  (C) Niacinamide  (D) Temizleme serisi  (E) Panthenol
+
+----- ORTAK PROMPT (A, C, D, E için) -----
+Ekteki görseli düzenle (yeniden üretme, düzenle).
+
+KORU (hiç değiştirme): Mie logosu, başlık, alt başlık, alt şerit (ikonlar ve yazılar), alttaki bordo buton ve yazısı, arka plan, bokeh ışıklar, renkler, ışık, kadraj, boyut (1024x1536). Dekoratif öğeler (yaprak, havlu, çiçek, cam objeler) kenarlarda aynen kalsın.
+
+DEĞİŞTİR: Görseldeki ÜRÜNLERİN HEPSİNİ ve altlarındaki küçük mermer podyum/tabla parçalarını tamamen sil. Yerlerini, devamında kesintisiz uzanan boş, düz, mat açık mermer tezgâh yüzeyi ve arkada aynı bulanık sahneyle doldur. Ürün alanında (başlık bloğunun altından şeride kadar, ortada) hiçbir ürün, şişe, kutu, gölge, yansıma veya leke kalmasın; yüzey ürünleri sonradan yerleştireceğim şekilde temiz olsun.
+Başka hiçbir yeri değiştirme. Yeni yazı ekleme, mevcut yazıların harflerini bozma. Bitince tek satırda doğrula: ürünler tamamen silindi mi, başlık/şerit/buton aynı mı?
+
+----- (B) PROCAPİL İÇİN: YUKARIDAKİNE EK OLARAK METİNLERİ DE DEĞİŞTİR -----
+Yukarıdaki promptun aynısı, ama şu metin değişiklikleri de yapılsın (iddialı ifadeleri kaldırıyoruz):
+- Başlığı "SAÇ BAKIMINDA PROCAPİL SERİSİ" yap (aynı font, bordo, büyük harf, iki satır).
+- Alt başlığı "Şampuan ve %5 Deri Sprey ile saç bakım rutini" yap.
+- Şeridi 3 sütun şu yazılarla yap: "300 ML ŞAMPUAN" · "60 ML SPREY" · "PH 5.5". İkonlar: şampuan şişesi, sprey şişesi, pH damlası (sade bordo çizgi). Şeritte "dökülme", "etkili", "güçlü" gibi kelimeler OLMASIN.
+- Metinleri Türkçe karakterlerle, harfi harfine yaz; yazıyı bitince oku ve doğrula.
