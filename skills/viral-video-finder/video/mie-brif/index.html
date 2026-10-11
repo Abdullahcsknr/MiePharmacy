@@ -1,0 +1,194 @@
+<!doctype html>
+<html lang="tr" data-resolution="portrait">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1080, height=1920" />
+    <script src="assets/gsap.min.js"></script>
+    <style>
+      @font-face { font-family: "InterX"; src: url("assets/Inter-Black.otf"); font-weight: 900; }
+      @font-face { font-family: "InterX"; src: url("assets/Inter-Bold.otf"); font-weight: 700; }
+      @font-face { font-family: "InterX"; src: url("assets/Inter-Medium.otf"); font-weight: 500; }
+      @font-face { font-family: "SerifX"; src: url("assets/DejaVuSerif-Bold.ttf"); font-weight: 700; }
+      :root { --ink: #101722; --navy: #0f1b2d; --pink: #e040e0; --white: #ffffff; }
+      * { margin: 0; padding: 0; box-sizing: border-box; }
+      html, body { width: 1080px; height: 1920px; overflow: hidden; background: #000; font-family: "InterX", sans-serif; }
+      #root { position: relative; width: 1080px; height: 1920px; overflow: hidden; }
+      .clip { position: absolute; left: 0; top: 0; width: 1080px; height: 1920px; }
+
+      /* ---- arka planlar ---- */
+      .av { background: linear-gradient(170deg, #8a5a38 0%, #5a3720 100%); }
+      .av .sil { position: absolute; left: 50%; bottom: 0; transform: translateX(-50%); width: 560px; height: 1100px; }
+      .av .head { position: absolute; left: 50%; top: 420px; transform: translateX(-50%); width: 300px; height: 360px; border-radius: 50%; background: #2a2f3a; opacity: .55; }
+      .av .body { position: absolute; left: 50%; top: 760px; transform: translateX(-50%); width: 640px; height: 900px; border-radius: 280px 280px 0 0; background: #1d2b57; opacity: .65; }
+      .ph { position: absolute; left: 50%; transform: translateX(-50%); padding: 10px 22px; border-radius: 12px; font-size: 28px; font-weight: 700; letter-spacing: .1em; color: #fff; background: rgba(16,23,34,.82); white-space: nowrap; }
+      .scrim { position: absolute; left: 0; top: 1000px; width: 1080px; height: 920px; background: linear-gradient(to bottom, rgba(15,27,45,0), rgba(15,27,45,.9) 40%); }
+      .anim { background: radial-gradient(circle at 50% 38%, #1c3150 0%, var(--navy) 62%); }
+      .dots { position: absolute; inset: 0; background-image: radial-gradient(rgba(255,255,255,.07) 2px, transparent 2px); background-size: 54px 54px; }
+      .macro { background: radial-gradient(circle at 50% 45%, #f6c9ae 0%, #e7a888 55%, #cf8566 100%); }
+      .end { background: #fbfbfc; }
+      .end .net { position: absolute; inset: 0; background-image: radial-gradient(rgba(16,23,34,.12) 2px, transparent 2px); background-size: 64px 64px; }
+
+      /* ---- HUD ---- */
+      .logo { position: absolute; right: 56px; top: 56px; text-align: right; color: #fff; text-shadow: 0 2px 12px rgba(0,0,0,.6); }
+      .logo .w { font-family: "SerifX"; font-weight: 700; font-size: 84px; line-height: 1; letter-spacing: -.02em; }
+      .logo .s { margin-top: 6px; font-size: 14px; font-weight: 700; letter-spacing: .22em; opacity: .9; }
+      .ai { position: absolute; left: 48px; bottom: 64px; padding: 10px 20px; border-radius: 999px; font-size: 26px; font-weight: 700; color: #fff; background: rgba(16,23,34,.62); border: 2px solid rgba(255,255,255,.45); }
+      .lt { position: absolute; left: 0; top: 1330px; width: 1080px; }
+      .lt .tag { display: inline-block; margin-left: 0; padding: 12px 26px 12px 40px; font-size: 26px; font-weight: 900; letter-spacing: .06em; color: #101722; background: #fff; }
+      .lt .tag2 { display: block; width: fit-content; padding: 10px 26px 10px 40px; font-size: 30px; font-weight: 900; color: #fff; background: var(--pink); }
+      .lt .q { display: block; width: 880px; padding: 22px 36px 22px 40px; font-size: 56px; line-height: 1.12; font-weight: 900; color: #101722; background: #fff; }
+
+      /* ---- altyazı ---- */
+      .cap { position: absolute; left: 60px; width: 960px; top: 900px; text-align: center; font-size: 92px; line-height: 1.08; font-weight: 900; color: #fff; text-transform: uppercase; letter-spacing: -.01em; text-shadow: 0 4px 0 rgba(0,0,0,.45), 0 0 28px rgba(0,0,0,.55); }
+      .cap .w { display: inline-block; margin: 0 .14em; }
+      .cap .h { color: var(--pink); }
+
+      /* ---- animasyon nesneleri ---- */
+      .obj { position: absolute; }
+      .card3 { position: absolute; top: 420px; width: 280px; height: 340px; border-radius: 28px; background: rgba(255,255,255,.08); border: 3px solid rgba(255,255,255,.35); display: flex; align-items: center; justify-content: center; font-size: 190px; font-weight: 900; color: #fff; }
+      .qmark { position: absolute; left: 470px; top: 140px; font-size: 220px; font-weight: 900; color: var(--pink); }
+
+      /* ---- kapanış ---- */
+      .end .wm { position: absolute; left: 0; top: 360px; width: 1080px; text-align: center; font-family: "SerifX"; font-weight: 700; font-size: 250px; line-height: 1; color: var(--ink); letter-spacing: -.03em; }
+      .end .bar { position: absolute; left: 270px; top: 640px; width: 540px; padding: 10px 0; text-align: center; font-size: 26px; font-weight: 700; letter-spacing: .24em; color: #fff; background: var(--ink); }
+      .end .co { position: absolute; left: 0; top: 760px; width: 1080px; text-align: center; font-size: 50px; line-height: 1.2; font-weight: 900; color: var(--ink); }
+      .end .ct { position: absolute; left: 120px; top: 1000px; width: 840px; font-size: 38px; line-height: 1.5; font-weight: 700; color: var(--ink); }
+      .end .adr { position: absolute; left: 120px; top: 1260px; width: 840px; font-size: 34px; line-height: 1.4; font-weight: 500; color: #3a4452; }
+      .end .cta { position: absolute; left: 190px; top: 1500px; width: 700px; padding: 26px 0; text-align: center; border-radius: 999px; font-size: 44px; font-weight: 900; color: #fff; background: var(--pink); }
+    </style>
+  </head>
+  <body>
+    <div id="root" data-composition-id="main" data-start="0" data-duration="31" data-width="1080" data-height="1920">
+
+      <!-- ===== ARKA PLAN KATMANLARI =====
+           AVATAR kliplerini (HeyGen çıktısı) bu üç katmanın yerine <video> olarak koy:
+           av1 0-3 sn yakın, av2 7-12 sn geniş, av3 22-27 sn yakın. -->
+      <div id="av1" class="clip av" data-start="0" data-duration="3" data-track-index="0">
+        <div class="head"></div><div class="body"></div>
+        <div class="ph" style="top:250px">AVATAR KLİBİ · YAKIN PLAN · yer tutucu</div>
+      </div>
+      <div id="an1" class="clip anim" data-start="3" data-duration="4" data-track-index="0">
+        <div class="dots"></div>
+        <svg class="obj" id="bottle" style="left:400px;top:520px" width="280" height="460" viewBox="0 0 280 460">
+          <rect x="95" y="0" width="90" height="70" rx="14" fill="#e8ecf2"/>
+          <rect x="70" y="60" width="140" height="40" rx="10" fill="#c9d2de"/>
+          <rect x="30" y="100" width="220" height="340" rx="46" fill="#f5f7fa"/>
+          <rect x="62" y="210" width="156" height="140" rx="12" fill="#e040e0" opacity=".9"/>
+          <text x="140" y="292" text-anchor="middle" font-family="InterX" font-weight="900" font-size="30" fill="#fff">NUMUNE</text>
+        </svg>
+        <div class="qmark" id="qmark">?</div>
+        <div class="card3" id="k1" style="left:90px">1</div>
+        <div class="card3" id="k2" style="left:400px">2</div>
+        <div class="card3" id="k3" style="left:710px">3</div>
+      </div>
+      <div id="av2" class="clip av" data-start="7" data-duration="5" data-track-index="0">
+        <div class="head" style="top:560px;width:240px;height:290px"></div><div class="body" style="top:820px;width:560px"></div>
+        <div class="ph" style="top:250px">AVATAR KLİBİ · GENİŞ PLAN · yer tutucu</div>
+      </div>
+      <div id="mc" class="clip macro" data-start="12" data-duration="5" data-track-index="0">
+        <svg class="obj" id="drop" style="left:440px;top:330px" width="200" height="280" viewBox="0 0 200 280">
+          <path d="M100 8 C100 8 20 120 20 180 C20 230 55 268 100 268 C145 268 180 230 180 180 C180 120 100 8 100 8Z" fill="#fff6ee" opacity=".92"/>
+          <ellipse cx="72" cy="170" rx="16" ry="34" fill="#fff" opacity=".7"/>
+        </svg>
+        <div class="obj" id="spread" style="left:300px;top:1040px;width:480px;height:130px;border-radius:50%;background:radial-gradient(#fff6ee,#f1c6ad);opacity:.95"></div>
+        <div class="scrim"></div>
+        <div style="position:absolute;left:0;top:0;width:1080px;height:340px;background:linear-gradient(to bottom,rgba(15,27,45,.8),rgba(15,27,45,0))"></div>
+        <div class="ph" style="top:1700px">MAKRO DOKU KLİBİ · Mie arşivi · yer tutucu</div>
+      </div>
+      <div id="an2" class="clip anim" data-start="17" data-duration="5" data-track-index="0">
+        <div class="dots"></div>
+        <svg class="obj" id="s1" style="left:90px;top:520px" width="260" height="420" viewBox="0 0 260 420">
+          <rect x="95" y="0" width="70" height="60" rx="12" fill="#e8ecf2"/><rect x="30" y="56" width="200" height="350" rx="42" fill="#f5f7fa"/></svg>
+        <svg class="obj" id="s2" style="left:410px;top:560px" width="260" height="380" viewBox="0 0 260 380">
+          <rect x="50" y="0" width="160" height="60" rx="14" fill="#c9d2de"/><path d="M50 60 H210 L190 360 H70 Z" fill="#f5f7fa"/></svg>
+        <svg class="obj" id="s3" style="left:730px;top:640px" width="260" height="300" viewBox="0 0 260 300">
+          <rect x="20" y="0" width="220" height="60" rx="14" fill="#c9d2de"/><rect x="10" y="56" width="240" height="230" rx="36" fill="#f5f7fa"/></svg>
+        <svg class="obj" id="tag" style="left:230px;top:1100px" width="260" height="200" viewBox="0 0 260 200">
+          <path d="M20 40 H150 L240 100 L150 160 H20 Z" fill="#e040e0"/><circle cx="60" cy="100" r="14" fill="#fff"/></svg>
+        <svg class="obj" id="pin" style="left:640px;top:1060px" width="220" height="260" viewBox="0 0 220 260">
+          <path d="M110 10 C60 10 20 50 20 100 C20 170 110 250 110 250 C110 250 200 170 200 100 C200 50 160 10 110 10Z" fill="#e040e0"/><circle cx="110" cy="100" r="34" fill="#fff"/></svg>
+      </div>
+      <div id="av3" class="clip av" data-start="22" data-duration="5" data-track-index="0">
+        <div class="head"></div><div class="body"></div>
+        <div class="ph" style="top:250px">AVATAR KLİBİ · YAKIN PLAN · yer tutucu</div>
+      </div>
+      <div id="end" class="clip end" data-start="27" data-duration="4" data-track-index="0">
+        <div class="net"></div>
+        <div class="wm" id="e1">Mie</div>
+        <div class="bar" id="e2">DERMATOLOGICAL SKINCARE</div>
+        <div class="co" id="e3">MIE KOZMETİK VE İLAÇ<br/>SAN. TİC. LTD. ŞTİ.</div>
+        <div class="ct" id="e4">bilgi@miepharma.com<br/>+90 850 303 65 77 / +90 0552 668 42 55<br/>www.miepharma.com</div>
+        <div class="adr" id="e5">Adres: Atakent Mah. 221 Sk. Rota Office A Blok No: 3/A İç Kapı No: 17 Küçükçekmece / İstanbul</div>
+        <div class="cta" id="e6">Fason teklif için DM</div>
+      </div>
+
+      <!-- ===== HUD (0-27 sn) ===== -->
+      <div id="logo" class="clip" data-start="0" data-duration="27" data-track-index="5" style="pointer-events:none">
+        <div class="logo"><div class="w">Mie</div><div class="s">DERMATOLOGICAL SKINCARE</div></div>
+        <div class="ai">Yapay zekâ sunucu</div>
+      </div>
+      <div id="lt" class="clip" data-start="0" data-duration="3.2" data-track-index="6" style="pointer-events:none">
+        <div class="lt"><span class="tag">MİE BİLGİ SERİSİ</span><span class="q">Fason Üretimde Brif Nasıl Hazırlanmalıdır?</span></div>
+      </div>
+
+      <!-- ===== ALTYAZILAR ===== -->
+      <div id="c1" class="clip" data-start="0" data-duration="1.6" data-track-index="7" style="pointer-events:none"><div class="cap"><span class="w">NUMUNE</span><span class="w h">NEDEN</span><span class="w h">UZAR?</span></div></div>
+      <div id="c2" class="clip" data-start="1.6" data-duration="1.4" data-track-index="7" style="pointer-events:none"><div class="cap"><span class="w">CEVAP</span><span class="w h">BRİFTE</span></div></div>
+      <div id="c3" class="clip" data-start="3.2" data-duration="3.8" data-track-index="7" style="pointer-events:none"><div class="cap" style="top:1180px"><span class="w">ÜÇ</span><span class="w h">ŞEYİ</span><span class="w">NETLEŞTİRİN</span></div></div>
+      <div id="c4" class="clip" data-start="7.2" data-duration="2.4" data-track-index="7" style="pointer-events:none"><div class="cap"><span class="w h">1</span><span class="w">·</span><span class="w">KİME</span><span class="w">SATACAKSINIZ</span></div></div>
+      <div id="c5" class="clip" data-start="9.6" data-duration="2.4" data-track-index="7" style="pointer-events:none"><div class="cap"><span class="w h">ÜRÜN</span><span class="w h">TİPİ</span></div></div>
+      <div id="c6" class="clip" data-start="12.2" data-duration="4.8" data-track-index="7" style="pointer-events:none"><div class="cap" style="top:1280px"><span class="w h">2</span><span class="w">·</span><span class="w">DOKU</span><span class="w">/</span><span class="w">KOKU</span><span class="w">/</span><span class="w h">UYGULAMA</span></div></div>
+      <div id="c7" class="clip" data-start="17.2" data-duration="4.8" data-track-index="7" style="pointer-events:none"><div class="cap" style="top:1380px"><span class="w h">3</span><span class="w">·</span><span class="w">AMBALAJ</span><span class="w">/</span><span class="w">FİYAT</span><span class="w">/</span><span class="w h">PAZAR</span></div></div>
+      <div id="c8" class="clip" data-start="22.2" data-duration="2" data-track-index="7" style="pointer-events:none"><div class="cap"><span class="w">YANİ</span><span class="w">AMAÇ</span><span class="w h">BASİT</span></div></div>
+      <div id="c9" class="clip" data-start="24.2" data-duration="2.8" data-track-index="7" style="pointer-events:none"><div class="cap"><span class="w">EKSİKSİZ</span><span class="w">BRİF</span><span class="w">·</span><span class="w h">KAYDET ✔</span></div></div>
+    </div>
+
+    <script>
+      window.__timelines = window.__timelines || {};
+      const tl = gsap.timeline({ paused: true });
+
+      // altyazı: kelime kelime sıçrayarak girer
+      ["c1","c2","c3","c4","c5","c6","c7","c8","c9"].forEach((id) => {
+        const el = document.getElementById(id);
+        const start = parseFloat(el.dataset.start);
+        const words = el.querySelectorAll(".w");
+        tl.fromTo(words, { opacity: 0, y: 36, scale: 0.9 },
+          { opacity: 1, y: 0, scale: 1, duration: 0.28, stagger: 0.12, ease: "back.out(1.7)" }, start + 0.02);
+      });
+
+      // alt şerit
+      tl.fromTo("#lt .tag", { x: -500 }, { x: 0, duration: 0.45, ease: "power3.out" }, 0.1);
+      tl.fromTo("#lt .q", { x: -1000 }, { x: 0, duration: 0.5, ease: "power3.out" }, 0.3);
+
+      // animasyon 1 (3-7)
+      tl.fromTo("#bottle", { y: 120, opacity: 0 }, { y: 0, opacity: 1, duration: 0.6, ease: "power3.out" }, 3.1);
+      tl.fromTo("#qmark", { scale: 0, opacity: 0 }, { scale: 1, opacity: 1, duration: 0.5, ease: "back.out(2)" }, 3.5);
+      tl.to("#qmark", { y: -18, duration: 0.4, yoyo: true, repeat: 3, ease: "sine.inOut" }, 4.0);
+      tl.to(["#bottle", "#qmark"], { y: -300, opacity: 0, duration: 0.5, ease: "power2.in" }, 5.5);
+      tl.fromTo("#k1", { y: 160, opacity: 0 }, { y: 0, opacity: 1, duration: 0.45, ease: "back.out(1.6)" }, 5.0);
+      tl.fromTo("#k2", { y: 160, opacity: 0 }, { y: 0, opacity: 1, duration: 0.45, ease: "back.out(1.6)" }, 5.5);
+      tl.fromTo("#k3", { y: 160, opacity: 0 }, { y: 0, opacity: 1, duration: 0.45, ease: "back.out(1.6)" }, 6.0);
+
+      // makro yer tutucu (12-17): damla düşer, yayılır
+      tl.fromTo("#drop", { y: -420, opacity: 0 }, { y: 520, opacity: 1, duration: 1.1, ease: "power2.in" }, 12.2);
+      tl.to("#drop", { opacity: 0, duration: 0.2 }, 13.35);
+      tl.fromTo("#spread", { scaleX: 0.1, scaleY: 0.1, opacity: 0 }, { scaleX: 1.35, scaleY: 1.2, opacity: 0.95, duration: 1.4, ease: "power2.out" }, 13.3);
+
+      // animasyon 2 (17-22): ambalaj siluetleri, etiket, harita
+      tl.fromTo("#s1", { scale: 0, opacity: 0 }, { scale: 1, opacity: 1, duration: 0.45, ease: "back.out(1.7)" }, 17.4);
+      tl.fromTo("#s2", { scale: 0, opacity: 0 }, { scale: 1, opacity: 1, duration: 0.45, ease: "back.out(1.7)" }, 18.2);
+      tl.fromTo("#s3", { scale: 0, opacity: 0 }, { scale: 1, opacity: 1, duration: 0.45, ease: "back.out(1.7)" }, 19.0);
+      tl.fromTo("#tag", { x: -300, opacity: 0 }, { x: 0, opacity: 1, duration: 0.5, ease: "power3.out" }, 19.9);
+      tl.fromTo("#pin", { y: -300, opacity: 0 }, { y: 0, opacity: 1, duration: 0.55, ease: "bounce.out" }, 20.6);
+
+      // kapanış kartı (27-31)
+      tl.fromTo(["#e1", "#e2"], { opacity: 0, y: 30 }, { opacity: 1, y: 0, duration: 0.5, stagger: 0.12, ease: "power3.out" }, 27.1);
+      tl.fromTo("#e3", { opacity: 0, y: 30 }, { opacity: 1, y: 0, duration: 0.45, ease: "power3.out" }, 27.5);
+      tl.fromTo(["#e4", "#e5"], { opacity: 0, y: 24 }, { opacity: 1, y: 0, duration: 0.45, stagger: 0.12, ease: "power3.out" }, 27.9);
+      tl.fromTo("#e6", { opacity: 0, scale: 0.85 }, { opacity: 1, scale: 1, duration: 0.5, ease: "back.out(1.8)" }, 28.5);
+
+      window.__timelines["main"] = tl;
+      tl.seek(0);
+    </script>
+  </body>
+</html>
