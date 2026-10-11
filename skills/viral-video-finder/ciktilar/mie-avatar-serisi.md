@@ -9,11 +9,11 @@
 | Öğe | Kural |
 |---|---|
 | Format | 9:16, 25–35 sn |
-| Sunucu | Aynı avatar, oturuyor, kameraya konuşuyor. Sıcak taş duvar, bitki, Mie bayrağı |
+| Sunucu | Aynı avatar, oturuyor, kameraya konuşuyor. Sıcak taş duvar, bitki, Mie bayrağı. **Birden fazla açı:** yakın plan (kanca ve özet), geniş plan (madde anlatımı). Açı değişimi cümle sınırında |
 | Logo | Sağ üstte sürekli: "Mie · Dermatological Skincare" |
 | Alt şerit | Etiket + soru başlığı ("… Nasıl …?") |
 | Ekran metni | Kalın beyaz, ortada, 2–3 satır, anahtar kelime pembe/mor vurgulu, sesle senkron |
-| B-roll | Makro doku, konuşmanın yaklaşık yarısı |
+| Ara sahne | Makro doku ve/veya **animasyon** (ikon, infografik, akış şeması), konuşmanın yaklaşık yarısı. Animasyon Mie renk paletinde, yalnızca açıklayıcı; sonuç ya da before/after göstermez |
 | Kapanış | Beyaz firma kartı: logo, unvan, e-posta, telefon, web, adres (3–4 sn) |
 | Mesaj yapısı | Problem → ilke → 3 madde → özet |
 | Dil | Türkçe, kısa cümle, **ürün adı yok** |
@@ -62,12 +62,12 @@ Alt şerit: **MİE BİLGİ SERİSİ · Fason Üretimde Brif Nasıl Hazırlanmal�
 
 | Sn | Görüntü | Ses | Ekran metni |
 |---|---|---|---|
-| 0–3 | Avatar | "Fason üretimde numune neden uzar? Çoğu zaman cevap brifte." | NUMUNE NEDEN UZAR? / CEVAP BRİFTE |
-| 3–7 | B-roll: dolum hattı | "Bu yüzden üreticiye gitmeden üç şeyi netleştirin." | ÜÇ ŞEYİ NETLEŞTİRİN |
-| 7–12 | Avatar | "Birincisi: kime satacaksınız, ne ürünü olacak." | 1 · KİME SATACAKSINIZ / ÜRÜN TİPİ |
-| 12–17 | B-roll: doku/karışım | "İkincisi: doku ve koku nasıl olsun, nasıl uygulanacak." | 2 · DOKU / KOKU / UYGULAMA |
-| 17–22 | B-roll: ambalaj | "Üçüncüsü: ambalaj, hedef fiyat ve satış pazarı." | 3 · AMBALAJ / FİYAT / PAZAR |
-| 22–27 | Avatar | "Yani amaç basit: eksiksiz bir brif, daha net bir numune süreci." | YANİ AMAÇ BASİT / EKSİKSİZ BRİF · KAYDET |
+| 0–3 | Avatar, yakın plan | "Fason üretimde numune neden uzar? Çoğu zaman cevap brifte." | NUMUNE NEDEN UZAR? / CEVAP BRİFTE |
+| 3–7 | Animasyon: bekleyen numune şişesi, soru işareti; 1-2-3 kartları belirir | "Bu yüzden üreticiye gitmeden üç şeyi netleştirin." | ÜÇ ŞEYİ NETLEŞTİRİN |
+| 7–12 | Avatar, geniş plan | "Birincisi: kime satacaksınız, ne ürünü olacak." | 1 · KİME SATACAKSINIZ / ÜRÜN TİPİ |
+| 12–17 | Makro doku: krem/serum damlası, kıvam | "İkincisi: doku ve koku nasıl olsun, nasıl uygulanacak." | 2 · DOKU / KOKU / UYGULAMA |
+| 17–22 | Animasyon: şişe, tüp, kavanoz silüetleri; etiket ve harita ikonu | "Üçüncüsü: ambalaj, hedef fiyat ve satış pazarı." | 3 · AMBALAJ / FİYAT / PAZAR |
+| 22–27 | Avatar, yakın plan | "Yani amaç basit: eksiksiz bir brif, daha net bir numune süreci." | YANİ AMAÇ BASİT / EKSİKSİZ BRİF · KAYDET |
 | 27–31 | Kapanış kartı | — | Logo · unvan · e-posta · telefon · web · **Adres** · "Teklif için DM" |
 
 Kapak: avatar + "BRİF NASIL HAZIRLANIR?".
