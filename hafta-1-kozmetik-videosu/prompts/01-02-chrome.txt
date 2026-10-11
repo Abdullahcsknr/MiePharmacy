@@ -1,0 +1,24 @@
+Mie Kozmetik'in tüketiciye (B2C) dönük kozmetik Instagram sayfasını ve web sitesindeki ürün sayfalarını inceleyeceksin. Sadece oku: hiçbir şeyi beğenme, takip etme, yorum ya da mesaj yazma, form doldurma, satın alma. Metinleri birebir alıntıla (videoda yalnızca sitede ve Instagram'da yazan ifadeleri kullanacağız). Tahminlerini "(tahmin)" diye işaretle.
+
+BÖLÜM A — INSTAGRAM
+0) instagram.com/miekozmetik adresini aç. Bu hesabın fason hesabı (@mie.fabrika) olmadığından emin ol. Kozmetik/ürün için başka bir resmi hesap varsa (bio, sitedeki bağlantılar) onu da belirt.
+1) Profil: kullanıcı adı, görünen ad, bio (birebir), bağlantı, takipçi/takip/gönderi sayısı, öne çıkan hikâyelerin adları, profil fotoğrafındaki logo, sabitlenmiş gönderiler (ne, ne zaman).
+2) Son 30 gönderi, her biri tek satır: tarih | format | hangi ürün | ilk görünen kare | ekrandaki ana metin (birebir) | caption'ın ilk cümlesi (birebir) | beğeni | yorum | Reels ise izlenme.
+3) En çok ve en az etkileşim alan 5'er gönderi ve olası nedenleri.
+4) Yorumlarda tekrar eden sorular (fiyat, nereden alınır, cilt tipi, eczane, içerik vb.).
+5) Görsel kimlik: renkler, fontlar, logo tutarlılığı, gerçek çekim mi, render/yapay zekâ görseli mi.
+6) Paylaşım sıklığı (son 3 ay) ve son paylaşım tarihi.
+
+BÖLÜM B — WEB SİTESİ
+miepharma.com'da kozmetik ürünlerin listelendiği sayfaları aç (en az /kozmetik/, /shop/ ve menüdeki ürün kategorileri).
+1) Ürün listesi: ürün adı, kategori, sayfa URL'si.
+2) Her ürün sayfasında yazan ifadeleri BİREBİR al: ürün açıklaması, "faydaları", içerik/etken maddeler, kullanım şekli, cilt tipi, uyarılar, "dermatolojik olarak test edilmiştir" gibi ifadeler, satış kanalı ("eczanelerde" vb.).
+3) Marka/kozmetik hattı hakkında genel tanıtım metni varsa birebir al.
+4) Sitede ürün fiyatı ya da "nereden alınır" bilgisi var mı?
+
+BÖLÜM C — VİDEO İÇİN ÇIKARIM
+1) Kozmetik sayfası için en güçlü 3 hook adayı: yalnızca Instagram ya da sitede birebir geçen ifadelerden, kaynak URL'leriyle.
+2) Videoda güvenle söylenebilecek 8–10 ifade, kaynak URL'leriyle. Hastalığı "tedavi eder, giderir, önler" gibi sağlık iddiası içeren ifadeleri AYRI bir listede "riskli" diye işaretle.
+3) Kaçınılması gerekenler (5 madde).
+
+Çıktıyı başlıklar halinde düz metin olarak ver.
