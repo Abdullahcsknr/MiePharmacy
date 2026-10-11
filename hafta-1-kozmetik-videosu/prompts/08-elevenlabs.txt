@@ -1,0 +1,28 @@
+elevenlabs.io'da Türkçe bir Reels videosu için 8 kısa seslendirme üreteceksin. Hesapta oturum açık. Ücretli bir işlem çıkarsa durdur ve bana sor. Hiçbir ayarı kalıcı olarak değiştirme, ses klonlama yapma.
+
+1) SES
+Fason videosunda (01_hook … 07_cagri) kullandığın erkek sesin aynısını ve aynı modeli kullan. Hangisi olduğunu bulamazsan History sekmesinde "Kozmetik sektörüne girmek istiyor musun?" cümlesini üreten sesi seç.
+
+2) AYARLAR
+Stability 0.45, Similarity 0.80, Style 0.20, Speaker boost açık, Speed 1.0. Hedef süreyi aşan cümlede Speed 1.05 kullan.
+Bu video güzellik ve cilt bakımı üzerine: ton sakin, sıcak ve güven veren olsun, reklam bağırışı olmasın.
+
+3) CÜMLELER
+Her cümleyi ayrı üret ve ayrı indir. Metni harfi harfine kullan, değiştirme.
+
+k01_hook.mp3 -> "Hassas ciltlerde nasıl işlem yapılmalıdır?" (en fazla 2,8 sn)
+k02_cevap.mp3 -> "Hassas ciltlerde çözüm daha fazla ürün kullanmak değildir." (en fazla 3,3 sn)
+k03_icgoru.mp3 -> "Doğru içeriklerle cildi sakinleştirmek ve bariyeri korumaktır." (en fazla 3,2 sn)
+k04_urun1.mp3 -> "Her cilt tipine uygundur." (en fazla 2,0 sn)
+k05_urun2.mp3 -> "Cildi rahatlatıcı ve tahriş etmeyen güçlü cilt temizliği sunmak için geliştirilmiştir." (en fazla 3,2 sn)
+k06_guven.mp3 -> "Yerli üretim, özel formül." (en fazla 2,0 sn)
+k07_marka.mp3 -> "Mie Dermatological Skincare. Profesyonel dermokozmetik çözümler." (en fazla 3,8 sn)
+k08_cagri.mp3 -> "Bizimle iletişime geçin." (en fazla 1,8 sn)
+
+4) TELAFFUZ
+- "Mie" fason videosundaki 03_marka.mp3 dosyasındaki gibi okunmalı.
+- "Dermatological Skincare" doğal İngilizce telaffuzla okunmalı ("dör-ma-to-LA-ci-kıl SKİN-ker"). Türkçe harf harf okursa metni "Dermatolojikıl Skinker" yazarak tekrar dene ve hangisinin doğru çıktığını not et.
+- "bariyeri", "dermokozmetik" kelimelerinde vurgu doğal Türkçe olmalı.
+
+5) İNDİRME VE RAPOR
+Her cümleyi yukarıdaki adla MP3 olarak indir. Sonunda bana sesin adını ve modelini, her dosyanın süresini ve varsa telaffuz sorunlarını yaz.
