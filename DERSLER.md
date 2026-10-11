@@ -13,3 +13,6 @@
 | 9 | Ogilvy: kitleyi işaretle, tek vaat, sıfat yerine bilgi, çağrı sesli de söylenir, müzik konuşmanın altında | Ogilvy skill |
 | 10 | Kullanıcıya **kısa** yaz, aşamaları sırayla takip et, prompt istenirse düz metin ver | Sohbet |
 | 11 | Görüntüler müşterinin arşivinden; metinler site + IG. "Paylaşılanlar dışında bir şey yok" | Fason |
+| 12 | **Yazma kuralı:** IG'de ya da sitede birebir yoksa yazma · yasal açık varsa yazma · şirket onayı gerektiriyorsa yazma | Kozmetik |
+| 13 | Çağrı: sitedeki "bizimle iletişime geçin" + iletişim adresleri (IG, web) kartı. Çağrı yolu ileride netleşecek | Kozmetik |
+| 14 | "Odak/kutu/animasyon" isteği kapanıştaki iletişim bölümü içindi; açılış gerçek görüntü + altyazı kalır | Fason v5 > v6 |
