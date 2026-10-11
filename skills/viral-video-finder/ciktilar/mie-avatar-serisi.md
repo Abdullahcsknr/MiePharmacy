@@ -86,3 +86,5 @@ sesli söylenir (özet bölümünde), ekranda yazılmaz.
 - Ses: "Mie Kozmetik" adlı çok sayıda klon var; hangisinin Cemil'e ait olduğu belli değil. Avatar seçildiğinde otomatik atanan ses kullanılır, değiştirilmez.
 - Filigran: önceki bir videoda HeyGen filigranı görüldü; kaldırma ücretli plana bağlı. Yayın öncesi filigransız çıktı kontrol edilir.
 - HeyGen yalnızca avatar konuşma klibi üretir. Altyazı, animasyon, makro görüntü, logo ve kapanış kartı ayrı kurgu programında eklenir.
+- 11 Ekim 2026 taslak testi: avatar sesi sorunsuz çalıştı. Önizlemede HeyGen filigranı var. Filigransız üretim ücretli plana (Creator) bağlı. Filigran kapatılmaz, kırpılmaz, üstü örtülmez (HeyGen kullanım koşullarına aykırı ve marka açısından hatalı); çözüm planı yenilemek. "Oluştur" planı netleşene kadar basılmaz.
+- Hipotez: süresi dolan look'lar, "0 doğrulanmış kullanıcı" uyarısı ve filigran aynı kökten gelebilir (plan/doğrulama lapsı). Plan yenilenince üçü birden düzelebilir. Faturalama sayfasında kontrol edilir.
