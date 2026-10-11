@@ -1,0 +1,73 @@
+=== BU METNİ CHATGPT'YE YAPIŞTIR ===
+EKLER (aynı mesaja): stil-referans-A.png, stil-referans-B.png, stil-referans-C.png
+
+Sen Mie Kozmetik'in tüketici/uzman kozmetik Instagram sayfası (@miekozmetik) için çalışan üst düzey bir reklam görseli tasarımcısı ve ürün fotoğrafçısısın. 7 adet BİTMİŞ gönderi görseli üreteceksin. ÖNEMLİ: Görsellerde ÜRÜN ÇİZME. Ürünleri ben gerçek fotoğraflarından sonradan yerleştireceğim. Senin işin sahneyi, logoyu, başlıkları ve şeritleri üretmek.
+
+MARKA STİLİ (stil-referans-A/B/C.png, aynı markanın fason sayfası için hazırlanmış gönderileri):
+- Üstte ortalı serif bordo "Mie" logosu + altında ince "DERMATOLOGICAL SKINCARE". Logoyu referanslardan AYNEN kopyala.
+- Kalın büyük harfli geometrik sans başlık, bordo #8E1B2E; altında ince alt başlık (koyu gri-lacivert).
+- Altta ince çizgilerle ayrılmış 3 sütunlu fayda şeridi (sade bordo çizgi ikon + kısa yazı), en altta bordo "DM'den ..." butonu. Şerit ve buton referanslardaki gibi: yarı saydam beyaz panel, yuvarlak köşe.
+- Fason sayfasındaki FABRİKA sahnesi yerine bu sayfada TEMİZ DERMOKOZMETİK STÜDYO sahnesi: açık krem-beyaz mermer yüzey, yumuşak pencere ışığı, arkada bulanık modern klinik/spa rafları ve çok az bitki detayı. Soğuk-nötr, ferah, premium. Gerçek bir stüdyo reklam fotoğrafı gibi (yapay görünüm yok, doğru perspektif, deforme nesne yok).
+
+BOŞ ÜRÜN ALANI (çok önemli)
+Her görselde başlık bloğunun altı ile şeridin üstü arasındaki orta bölgeyi (yaklaşık y=520 ile y=1170 arası, x=90 ile x=934 arası) SADE BIRAK: orada yalnızca temiz, mat açık mermer tezgâh/zemin ve arkada bulanık sahne olsun. Bu alanda ÜRÜN, ŞİŞE, KUTU, ELLER veya yazı OLMASIN. Dekoratif öğeler (yaprak, dilim, su damlası) yalnızca bu alanın DIŞINDA, kenarlarda ve şeridin hemen üstünde, küçük ve sade olsun. Tezgâh yüzeyi bu alanda boşta ve düz kalsın.
+
+YAZI KURALI
+Aşağıdaki metinleri HARFİ HARFİNE, Türkçe karakterlerle (Ç Ğ İ Ö Ş Ü ç ğ ı ö ş ü) yaz. Ekstra, eksik veya değiştirilmiş kelime OLMASIN. Ürün adı, rakam veya iddia ekleme. Her görselden sonra görseldeki yazıyı oku ve metinle karşılaştır; tek harf farklıysa görseli yeniden üret.
+Buton yazısı her görselde: DM'den FİYAT & KATALOG yaz
+
+FORMAT: Dikey 1024x1536. Logo ve başlıkları üstte, ürün alanını ortada, şeridi ve butonu altta tut (referanslardaki yerleşim). Her mesajda YALNIZCA BİR görsel üret, sonra "Devam?" diye sor.
+
+GÖNDERİ 1 — Göz Çevresi Serumu
+Sahne vurgusu: çok hafif pembe-magenta bokeh ışıkları (arka planda), pembe tonlu yumuşak yansıma.
+Başlık: GÖZ ÇEVRESİNE IŞILTILI BAKIM
+Alt başlık: Koyu halka görünümünün azalmasına yardımcı olur
+Şerit (3 sütun, soldan sağa): 30 ML · TÜM CİLT TİPLERİNE UYGUN · SABAH & AKŞAM
+İkonlar: damlalık, yeryüzü/uygunluk simgesi (yuvarlak), güneş-ay
+
+GÖNDERİ 2 — C Vitamini Serumu
+Sahne vurgusu: sıcak turuncu-amber bokeh, kenarlarda iki küçük portakal dilimi (ürün alanının dışında).
+Başlık: C VİTAMİNİ İLE AYDINLIK GÖRÜNÜM
+Alt başlık: C vitamini ve hyaluronik asit ile cilt tonunu eşitler
+Şerit: 30 ML · C VİTAMİNİ + HYALURONİK ASİT · SABAH & AKŞAM
+İkonlar: damlalık, damla/molekül, güneş-ay
+
+GÖNDERİ 3 — Niacinamide (Sebum Dengeleyici) Serum
+Sahne vurgusu: yumuşak turkuaz-lila bokeh, kenarda iki küçük yeşil yaprak.
+Başlık: SEBUM DENGESİ İÇİN NİASİNAMİD
+Alt başlık: Sebumu dengelemeye ve gözenekleri sıkılaştırmaya yardımcı olur
+Şerit: %10 NİASİNAMİD · %1 ZİNC PCA · DURULAMA GEREKTİRMEZ
+İkonlar: damla, molekül, damla-yasak değil: "durulama yok" için basit musluk simgesi çizgisiz (sade bir damla yeterli)
+
+GÖNDERİ 4 — Panthenol Köpük ve Krem
+Sahne vurgusu: yumuşak açık mavi bokeh, kenarda küçük beyaz çiçek dalı.
+Başlık: CİLT BARİYERİNİ KORUYAN BAKIM
+Alt başlık: Panthenol Köpük ve Panthenol Krem
+Şerit: PRO-B5 + NİASİNAMİD · HASSAS CİLT DAHİL · 200 ML KÖPÜK · 150 ML KREM
+(Bu görselde şerit 3 sütun: 1) PRO-B5 + NİASİNAMİD  2) HASSAS CİLT DAHİL  3) 200 ML KÖPÜK · 150 ML KREM)
+İkonlar: kalkan, kalp/koruma, iki şişe
+
+GÖNDERİ 5 — Yüz Temizleme Serisi (jel, tonik, köpük)
+Sahne vurgusu: ferah aqua-beyaz, ince su damlacıkları yalnızca kenarlarda.
+Başlık: YÜZ TEMİZLİĞİNDE 3 ADIM
+Alt başlık: Jel, tonik ve köpük ile nazik temizlik
+Şerit: TÜM CİLT TİPLERİNE UYGUN · CİLDİ KURUTMAZ · 200 ML
+İkonlar: yuvarlak cilt simgesi, su damlası, şişe
+
+GÖNDERİ 6 — Procapil Saç Bakım (şampuan + sprey)
+Sahne vurgusu: açık travertin ve beyaz havlu dokusu yalnızca kenarlarda, hafif yeşil-mavi ton.
+Başlık: SAÇ BAKIMINDA PROCAPİL SERİSİ
+Alt başlık: Şampuan ve %5 Deri Sprey ile saç bakım rutini
+Şerit: 300 ML ŞAMPUAN · 60 ML SPREY · PH 5.5
+İkonlar: şampuan şişesi, sprey, pH damlası
+
+GÖNDERİ 7 — Ürün ailesi (genel)
+Sahne vurgusu: sade, nötr krem-beyaz; ürün alanı geniş ve boş.
+Başlık: CİLT VE SAÇ BAKIMINDA GENİŞ ÜRÜN YELPAZESİ
+Alt başlık: Güzellik merkezleri ve uzmanlar için toptan tedarik
+Şerit: BAYİLİK BAŞVURUSU · KATALOG · TOPTAN TEDARİK
+İkonlar: mağaza/el sıkışma, katalog kitapçığı, koli
+
+HER GÖRSELDEN SONRA tek satırda öz denetim: yazı metinle birebir aynı mı, Türkçe karakterler doğru mu, ürün alanı tamamen boş mu, logo referansla uyumlu mu? Sorun varsa düzeltip yeniden üret.
+
+Başla: GÖNDERİ 1.
