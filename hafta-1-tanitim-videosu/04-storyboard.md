@@ -108,3 +108,8 @@ Drone (Drive "turkce_dusuk_mb", 360p) kalite yetersiz olduğu için kullanılmad
 
 Açılış (ilk 5,2 sn): kullanıcının yüklediği "Mie_Cosmetics.mp4" (720p) videosunun 0,4–5,75 sn arası drone çekimi. 9:16 kırpma yapıldı; sağ üstteki eski logo filigranı kırpma dışında kaldı. 6. saniyeden sonra alt yazı bandı girdiği için o kısım kullanılmadı. Diğer her şey v8 ile aynı (v6 içeriği, sesi ve müziği).
 Not: Mie_Cosmetics.mp4 160 sn, 720p; içinde makine sahnelerinin daha kaliteli halleri de var.
+
+## v10: v9 + düşük çözünürlüklü pencereler 720p ile değişti
+
+- Adım 02 penceresi (kazan içi karıştırma): YENI_13 (270p) yerine Mie_Cosmetics.mp4 35,6 sn (720p). Alt yazı bandı ve filigran kırpma dışında.
+- Adım 04 penceresi (kapak makinesi): MIE_29 (480p) yerine Mie_Cosmetics.mp4 113,8 sn (720p).
