@@ -103,3 +103,8 @@ v6 metni, sesi, müziği ve zamanlaması birebir korundu. İnsan ve kapı görü
 Karartma: tam ekran karartma kaldırıldı; yalnızca yazı bandında yumuşak gölge var.
 
 Drone (Drive "turkce_dusuk_mb", 360p) kalite yetersiz olduğu için kullanılmadı. HD orijinal bekleniyor.
+
+## v9: v8 + drone açılışı (11.10.2026)
+
+Açılış (ilk 5,2 sn): kullanıcının yüklediği "Mie_Cosmetics.mp4" (720p) videosunun 0,4–5,75 sn arası drone çekimi. 9:16 kırpma yapıldı; sağ üstteki eski logo filigranı kırpma dışında kaldı. 6. saniyeden sonra alt yazı bandı girdiği için o kısım kullanılmadı. Diğer her şey v8 ile aynı (v6 içeriği, sesi ve müziği).
+Not: Mie_Cosmetics.mp4 160 sn, 720p; içinde makine sahnelerinin daha kaliteli halleri de var.
