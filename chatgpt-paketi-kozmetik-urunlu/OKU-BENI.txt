@@ -1,0 +1,7 @@
+1) ChatGPT'de yeni sohbet aç.
+2) stil-referans/ içindeki 3 görseli + urunler-seffaf/ içindeki 10 PNG'yi TEK mesaja yükle.
+3) CHATGPT-PROMPT-KOZMETIK-HAZIR.txt içeriğini yapıştır, gönder.
+4) Her görselden sonra "devam" yaz.
+
+DİKKAT: ChatGPT ürünleri yine yeniden çizip etiketleri bozabilir. Etiket/logo bozuk çıkarsa o görseli KULLANMA.
+Plan B: chatgpt-paketi-kozmetik klasöründeki ÜRÜNSÜZ sahne promptunu kullan, çıkan sahneleri bana getir, gerçek ürünleri ben yerleştireyim.

@@ -1,0 +1,97 @@
+=== BU METNİ CHATGPT'YE YAPIŞTIR ===
+EKLER (aynı mesaja, hepsini birlikte yükle):
+  stil-referans/ klasöründeki 3 görsel (stil-referans-A, B, C)
+  urunler-seffaf/ klasöründeki 10 şeffaf PNG:
+    goz-cevresi-serumu-30ml.png, c-vitamini-serumu-30ml.png, niacinamide-serum-30ml.png,
+    panthenol-kopuk-200ml.png, panthenol-krem-150ml.png,
+    yuz-temizleme-jeli-200ml.png, yuz-temizleme-tonigi-200ml.png, yuz-yikama-kopugu-200ml.png,
+    procapil-sampuan-300ml.png, procapil-sprey-60ml.png
+
+Sen Mie Kozmetik'in kozmetik Instagram sayfası (@miekozmetik) için çalışan üst düzey bir reklam görseli tasarımcısısın. 7 adet BİTMİŞ, yayına hazır gönderi görseli üreteceksin: sahne, logo, başlık, şerit, buton ve GERÇEK ÜRÜNLER dahil.
+
+1) ÜRÜN KURALI (en önemli)
+Ekteki urunler-seffaf/ PNG'leri markanın GERÇEK ürün fotoğraflarıdır (arka planı silinmiş). Bunları PİKSEL PİKSEL AYNEN kullan:
+- Yeniden ÇİZME, yeniden yorumlama, "benzerini üretme" YASAK. Şişenin şekli, kapağı/pompası/damlalığı, etiketi, Mie logosu, etiket üzerindeki TÜM yazılar, renkler ve oranlar aynı kalacak.
+- Etiket yazılarını okunur tut; hiçbirini değiştirme, silme, ekleme. Okunamayan yazıyı uydurma.
+- Ürünleri döndürme, çarpıtma, kırpma. Dik dursunlar. Yalnızca ÖLÇEKLE ve KONUMLANDIR.
+- Ürünlere yeni yazı, rozet, ikon ekleme. Her üründen yalnızca 1 adet (gönderide belirtilenler kadar).
+- Sana verilmeyen hiçbir ürünü çizme.
+Ürünü etiketiyle birlikte aynen koruyamayacaksan, ürünü HİÇ koymadan sahneyi üret ve bunu bana açıkça yaz. Bozuk etiketli ürünü asla verme.
+
+2) ÜRÜN YERLEŞTİRME (gerçekçi otursun)
+- Ürünler, ürün alanındaki (y≈520–1170, x≈90–934) mat açık mermer podyum/tezgâh üzerinde dursun. Tabanları yuvarlak gölgeye otursun: tabana yapışık koyu temas gölgesi + sağ-alta doğru yumuşak geniş gölge (ışık sol-üstten). Parlak zeminde çok hafif, çabuk sönen yansıma.
+- Gerçek boy oranlarını koru: serumlar (göz çevresi, C vitamini, niacinamide) ≈ 11 cm; krem ≈ 18 cm; köpük ve temizleme jeli ≈ 20 cm; tonik ≈ 17 cm; yüz yıkama köpüğü ≈ 19 cm; Procapil şampuan kutusu ≈ 16 cm, sprey kutusu ≈ 12 cm. Arkadaki ürünler perspektife göre biraz küçük olsun.
+- Sahnenin ışığına uydur: ürün PNG'lerinin RENKLERİNİ DEĞİŞTİRME; yalnızca hafif ortam ışığı ve gölge uygula. Ürünler sahneden kopuk/yapıştırma görünmesin ama etiket detayı bozulmasın.
+- Ürünler başlık bloğunu, şeridi veya butonu KAPATMASIN.
+
+3) MARKA STİLİ (stil-referans/ A, B, C: aynı markanın fason sayfası için hazırlanmış gönderileri)
+- Üstte ortalı serif bordo "Mie" logosu + altında ince "DERMATOLOGICAL SKINCARE". Logoyu referanslardan AYNEN kopyala.
+- Kalın büyük harfli geometrik sans başlık, bordo #8E1B2E; altında ince alt başlık (koyu gri-lacivert).
+- Altta ince çizgilerle ayrılmış 3 sütunlu fayda şeridi (sade bordo çizgi ikon + kısa yazı) ve en altta bordo buton. Şerit: yarı saydam beyaz panel, yuvarlak köşe. Referanslardaki yerleşimi koru.
+- Sahne: temiz dermokozmetik stüdyo; açık krem-beyaz mermer, yumuşak pencere ışığı, arkada bulanık modern klinik/spa rafları, çok az bitki detayı. Soğuk-nötr, ferah, premium; gerçek bir stüdyo fotoğrafı gibi (yapay görünüm yok, doğru perspektif).
+
+4) YAZI KURALI
+Aşağıdaki metinleri HARFİ HARFİNE, Türkçe karakterlerle (Ç Ğ İ Ö Ş Ü ç ğ ı ö ş ü) yaz. Ekstra, eksik veya değiştirilmiş kelime OLMASIN. Ürün adı, rakam veya iddia ekleme. Her görselden sonra görseldeki yazıyı ve ürün etiketlerini kontrol et.
+Buton yazısı her görselde: DM'den FİYAT & KATALOG yaz
+
+FORMAT: Dikey 1024x1536. Her mesajda YALNIZCA BİR görsel üret, sonra "Devam?" diye sor.
+
+GÖNDERİ 1 — Göz Çevresi Serumu
+Ürün: goz-cevresi-serumu-30ml.png (tek ürün, kahraman: ürün alanında ortada, ürün alanı yüksekliğinin ≈ %50'si kadar büyük)
+Sahne vurgusu: çok hafif pembe-magenta bokeh
+Başlık: GÖZ ÇEVRESİNE IŞILTILI BAKIM
+Alt başlık: Koyu halka görünümünün azalmasına yardımcı olur
+Şerit (3 sütun): 30 ML · TÜM CİLT TİPLERİNE UYGUN · SABAH & AKŞAM
+İkonlar: damlalık, yuvarlak uygunluk simgesi, güneş-ay
+
+GÖNDERİ 2 — C Vitamini Serumu
+Ürün: c-vitamini-serumu-30ml.png (tek kahraman ürün, ortada, aynı büyüklükte)
+Sahne vurgusu: sıcak turuncu-amber bokeh, kenarlarda iki küçük portakal dilimi (ürün alanı dışında)
+Başlık: C VİTAMİNİ İLE AYDINLIK GÖRÜNÜM
+Alt başlık: C vitamini ve hyaluronik asit ile cilt tonunu eşitler
+Şerit: 30 ML · C VİTAMİNİ + HYALURONİK ASİT · SABAH & AKŞAM
+İkonlar: damlalık, damla/molekül, güneş-ay
+
+GÖNDERİ 3 — Niacinamide (Sebum Dengeleyici) Serum
+Ürün: niacinamide-serum-30ml.png (tek kahraman ürün, ortada)
+Sahne vurgusu: yumuşak turkuaz-lila bokeh, kenarda iki küçük yeşil yaprak
+Başlık: SEBUM DENGESİ İÇİN NİASİNAMİD
+Alt başlık: Sebumu dengelemeye ve gözenekleri sıkılaştırmaya yardımcı olur
+Şerit: %10 NİASİNAMİD · %1 ZİNC PCA · DURULAMA GEREKTİRMEZ
+İkonlar: damla, molekül, su damlası
+
+GÖNDERİ 4 — Panthenol Köpük ve Krem
+Ürünler: panthenol-kopuk-200ml.png (solda) ve panthenol-krem-150ml.png (sağda), yan yana, hafif arada boşlukla
+Sahne vurgusu: yumuşak açık mavi bokeh, kenarda küçük beyaz çiçek dalı
+Başlık: CİLT BARİYERİNİ KORUYAN BAKIM
+Alt başlık: Panthenol Köpük ve Panthenol Krem
+Şerit (3 sütun): PRO-B5 + NİASİNAMİD · HASSAS CİLT DAHİL · 200 ML KÖPÜK / 150 ML KREM
+İkonlar: kalkan, kalp, iki şişe
+
+GÖNDERİ 5 — Yüz Temizleme Serisi
+Ürünler: yuz-temizleme-jeli-200ml.png, yuz-temizleme-tonigi-200ml.png, yuz-yikama-kopugu-200ml.png (tek sıra, bu sırayla soldan sağa)
+Sahne vurgusu: ferah aqua-beyaz, kenarlarda ince su damlacıkları
+Başlık: YÜZ TEMİZLİĞİNDE 3 ADIM
+Alt başlık: Jel, tonik ve köpük ile nazik temizlik
+Şerit: TÜM CİLT TİPLERİNE UYGUN · CİLDİ KURUTMAZ · 200 ML
+İkonlar: yuvarlak cilt simgesi, su damlası, şişe
+
+GÖNDERİ 6 — Procapil Saç Bakım
+Ürünler: procapil-sampuan-300ml.png (solda), procapil-sprey-60ml.png (sağda) (her biri kutusu ve şişesiyle birlikte gelen tek parçadır, bölme)
+Sahne vurgusu: açık travertin ve beyaz havlu dokusu yalnızca kenarlarda, hafif yeşil-mavi ton
+Başlık: SAÇ BAKIMINDA PROCAPİL SERİSİ
+Alt başlık: Şampuan ve %5 Deri Sprey ile saç bakım rutini
+Şerit: 300 ML ŞAMPUAN · 60 ML SPREY · PH 5.5
+İkonlar: şampuan şişesi, sprey, pH damlası
+
+GÖNDERİ 7 — Ürün ailesi
+Ürünler (hepsi 1'er adet, iki sıra: arka sıra büyükler, ön sıra serumlar): panthenol-kopuk-200ml, panthenol-krem-150ml, yuz-temizleme-jeli-200ml, procapil-sampuan-300ml, goz-cevresi-serumu-30ml, c-vitamini-serumu-30ml, niacinamide-serum-30ml
+Sahne vurgusu: sade, nötr krem-beyaz
+Başlık: CİLT VE SAÇ BAKIMINDA GENİŞ ÜRÜN YELPAZESİ
+Alt başlık: Güzellik merkezleri ve uzmanlar için toptan tedarik
+Şerit: BAYİLİK BAŞVURUSU · KATALOG · TOPTAN TEDARİK
+İkonlar: mağaza/el sıkışma, katalog kitapçığı, koli
+
+HER GÖRSELDEN SONRA tek satırda öz denetim: ürün etiketleri yüklenen PNG'lerle birebir aynı mı (özellikle Mie logosu ve yazılar)? Yazı metinle birebir aynı mı? Türkçe karakterler doğru mu? Ürünler başlığı/şeridi kapatıyor mu? Sorun varsa düzeltip yeniden üret; düzeltemiyorsan ürünsüz sahneyi ver ve bunu yaz.
+
+Başla: GÖNDERİ 1.
