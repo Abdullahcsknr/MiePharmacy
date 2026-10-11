@@ -75,3 +75,31 @@ Geri bildirim: kapı girişleri az, makine, eleman ve seri üretim bandı çok; 
 
 Tasarım: görüntü karartılmıyor. Arka plan aynı görüntünün bulanık hali; okunabilirlik beyaz ve turuncu kartlarla. Üstte "FASON KOZMETİK ÜRETİM SÜREÇLERİ" bandı ve 10 parçalı ilerleme çubuğu.
 WhatsApp tanıtım videosu (51 sn) kullanılmadı: drone yok, hat görüntülerinin çoğu arşivde yok (stok olabilir), "Sağlık Bakanlığı GMP" ifadesi onay gerektirir.
+
+## v8 — v7 geri alındı; v6 içeriği aynen, yalnız sahneler değişti (11.10.2026)
+
+Kullanıcı: "içeriğe laf etmedim, sadece sahneleri değiştirecektin; insan gösterme, makine kullan." v7 (yeni metin/yapı) iptal; reel_v7.py arşivde.
+v6 metni, sesi, müziği, zamanlaması birebir korundu. Değişen görüntüler (hepsi insansız, HD makine):
+- Açılış (kapı MIE_3 başı) → MIE_3 16–21 sn dolum makinesi salonu
+- Marka açılışı (koridor) → MIE_38 etiketli Mie şişeleri hatta
+- Adımlar: toplantı → dolum makinesi (MIE_3) · lab → kazan içi karıştırma (YENI_13) · ofis → kapak makinesi (MIE_29); raf (ürünler) aynen
+- Seri üretim zemini (insanlı kazan) → insansız kazan (MIE_3 30 sn); küçük pencere "ÜRETİM" → kazan
+- 3-6 hafta ızgarası: insanlı karolar → makine/kazan karoları
+- Karartma: tam ekran karartma kaldırıldı; yalnız yazı bandında yumuşak gölge
+Drone (Drive "turkce_dusuk_mb", 360p) denendi: bloklu ve eski logo filigranlı, kullanılmadı. Orijinal HD drone dosyası gelirse açılışa eklenir.
+
+## v8: v6 içeriği aynen korundu, yalnızca sahneler değişti (11.10.2026)
+
+v6 metni, sesi, müziği ve zamanlaması birebir korundu. İnsan ve kapı görüntüleri HD, insansız makine görüntüleriyle değiştirildi:
+- Açılış: MIE_3 16–21 sn, dolum makinesi salonu.
+- Marka açılışı: MIE_38, etiketli Mie şişeleri hatta.
+- Adımlar:
+  - Toplantı yerine dolum makinesi (MIE_3).
+  - Laboratuvar yerine kazan içi karıştırma (YENI_13).
+  - Ofis yerine kapak makinesi (MIE_29).
+- Seri üretim zemini: insansız kazan (MIE_3 30 sn).
+- Izgara karoları: makine görüntüleri.
+
+Karartma: tam ekran karartma kaldırıldı; yalnızca yazı bandında yumuşak gölge var.
+
+Drone (Drive "turkce_dusuk_mb", 360p) kalite yetersiz olduğu için kullanılmadı. HD orijinal bekleniyor.
