@@ -1,0 +1,12 @@
+=== CHATGPT'YE YAPIŞTIR (EK: önceki sohbetteki 4. görsel, yani 6 ürünlü "KREM, SERUM, ŞAMPUAN, KÖPÜK…" görseli) ===
+
+Ekteki görseli düzenle (yeniden üretme, düzenle).
+
+KORU (hiç değiştirme): Mie logosu, "KREM, SERUM, ŞAMPUAN, KÖPÜK… HEPSİ BİZİM ÜRETİMİMİZ" başlığı, "Markanı da aynı tesiste üretelim" alt başlığı, alt ikon şeridi, "DM'den KATALOG yaz" butonu, arka plandaki bulanık gümüş-mavi üretim tesisi, renkler, ışık, kadraj ve boyut.
+
+DEĞİŞTİR:
+1. Görseldeki 6 ürünün (şampuan, iki Panthenol şişesi, iki serum, yüz temizleme jeli) HEPSİNİ ve altlarındaki beyaz mermer parçasını tamamen sil.
+2. Bulundukları yeri, devamında kesintisiz uzanan boş, parlak, fırçalanmış paslanmaz çelik üretim tezgâhı ve arkada aynı bulanık üretim hattıyla doldur. Tezgâhta hiçbir nesne, yansıma kalıntısı, gölge veya leke kalmasın; yüzey ürünleri sonradan yerleştireceğim şekilde temiz ve düz olsun.
+3. Alt ikon şeridindeki dördüncü sütunun yazısını "ZAMANINDA TESLİMAT" yerine "ANAHTAR TESLİM" yap, ikonu kamyon yerine kutu ikonu olarak bırak. Diğer üç sütun aynı kalsın.
+
+Başka hiçbir yeri değiştirme. Çıktı aynı boyutta (1024x1536) olsun. Yeni yazı ekleme, mevcut yazıların harflerini bozma. Bitince tek satırda doğrula: ürünler tamamen silindi mi, başlık ve logo aynı mı?
