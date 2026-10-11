@@ -37,14 +37,13 @@ Sahne vurgusu: yumuşak turkuaz-lila bokeh, kenarda iki küçük yeşil yaprak.
 Başlık: SEBUM DENGESİ İÇİN NİASİNAMİD
 Alt başlık: Sebumu dengelemeye ve gözenekleri sıkılaştırmaya yardımcı olur
 Şerit: %10 NİASİNAMİD · %1 ZİNC PCA · DURULAMA GEREKTİRMEZ
-İkonlar: damla, molekül, damla-yasak değil: "durulama yok" için basit musluk simgesi çizgisiz (sade bir damla yeterli)
+İkonlar: damla, molekül, su damlası
 
 GÖNDERİ 4 — Panthenol Köpük ve Krem
 Sahne vurgusu: yumuşak açık mavi bokeh, kenarda küçük beyaz çiçek dalı.
 Başlık: CİLT BARİYERİNİ KORUYAN BAKIM
 Alt başlık: Panthenol Köpük ve Panthenol Krem
-Şerit: PRO-B5 + NİASİNAMİD · HASSAS CİLT DAHİL · 200 ML KÖPÜK · 150 ML KREM
-(Bu görselde şerit 3 sütun: 1) PRO-B5 + NİASİNAMİD  2) HASSAS CİLT DAHİL  3) 200 ML KÖPÜK · 150 ML KREM)
+Şerit (3 sütun): PRO-B5 + NİASİNAMİD · HASSAS CİLT DAHİL · 200 ML KÖPÜK / 150 ML KREM
 İkonlar: kalkan, kalp/koruma, iki şişe
 
 GÖNDERİ 5 — Yüz Temizleme Serisi (jel, tonik, köpük)
