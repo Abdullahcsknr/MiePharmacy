@@ -113,3 +113,7 @@ Not: Mie_Cosmetics.mp4 160 sn, 720p; içinde makine sahnelerinin daha kaliteli h
 
 - Adım 02 penceresi (kazan içi karıştırma): YENI_13 (270p) yerine Mie_Cosmetics.mp4 35,6 sn (720p). Alt yazı bandı ve filigran kırpma dışında.
 - Adım 04 penceresi (kapak makinesi): MIE_29 (480p) yerine Mie_Cosmetics.mp4 113,8 sn (720p).
+
+## v11: v10 + seslendirme 1,15 kat hızlı
+
+Seslendirme 1,15 kat hızlandırıldı (perde korunuyor, ffmpeg atempo). Cümlelerin başlangıç zamanları aynı. Altyazı kelime hızı da 1,15 kat artırıldı. Kullanılan araçlar: mix_v3b.py --tempo 1.15, reel_v8.py VO_SPEED.

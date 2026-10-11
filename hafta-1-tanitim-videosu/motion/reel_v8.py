@@ -13,6 +13,7 @@ from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
 W, H, FPS, DUR = 1080, 1920, 30, 21.3   # v4: ilk 9 sn (hook paneli, kart yağmuru, damga) çıkarıldı
 OPEN, SKIP = 4.0, 5.0   # yeni açılış 4,0 anim sn; sonrası eski zaman çizelgesinde +5,0 ileriden devam eder
+VO_SPEED = 1.15   # v11: seslendirme 1,15 kat hızlı; altyazı kelime hızı buna göre
 TS = 1.3  # zaman ölçeği: tüm hareketler 1,3 kat yavaş (toplam 32,5 sn)
 OR = (255, 100, 24); WH = (255, 255, 255); GR = (85, 85, 85); LG = (244, 244, 244); INK = (20, 20, 20)
 
@@ -255,7 +256,7 @@ def s_scale(t):
     x0, y0 = (src.width - cw) // 2, (src.height - ch) // 2
     fr = src.crop((x0, y0, x0 + cw, y0 + ch)).resize((W, H), Image.BILINEAR)
     band(fr, 880, 1420, 160)
-    caption(fr, "Onaylanan numune ile birebir aynı kalitede seri imalat.".split(), t, 11.56, 0.316, 1040, 64)   # 04_kanit.mp3 ile senkron
+    caption(fr, "Onaylanan numune ile birebir aynı kalitede seri imalat.".split(), t, 11.56, 0.316 / VO_SPEED, 1040, 64)   # 04_kanit.mp3 ile senkron
     return fr
 
 
@@ -367,9 +368,9 @@ def s_open(t):
     """Kapıdan giriş: hook sorusu, ardından vaat (v4 hali). Kare 1'de altyazı zaten hareket halinde."""
     fr = foot("open", t); band(fr, 600, 1320, 170)
     if t < 1.85:
-        caption(fr, "Kozmetik sektörüne girmek istiyor musun?".split(), t, 0.0, 0.286, 820, 84)
+        caption(fr, "Kozmetik sektörüne girmek istiyor musun?".split(), t, 0.0, 0.286 / VO_SPEED, 820, 84)
     else:
-        caption(fr, "Kendi markanı oluşturmak artık çok daha kolay.".split(), t, 1.92, 0.241, 820, 76)
+        caption(fr, "Kendi markanı oluşturmak artık çok daha kolay.".split(), t, 1.92, 0.241 / VO_SPEED, 820, 76)
     return fr
 
 
