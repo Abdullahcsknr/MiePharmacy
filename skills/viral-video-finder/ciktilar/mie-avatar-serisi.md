@@ -39,7 +39,7 @@ Her videonun caption'ının son satırı (sabit): *"Bu videodaki sunucu yapay ze
 - [ ] Kişisel tıbbi tavsiye yok, kullanıcı yorumu/tanıklığı yok, rakip yok
 - [ ] Avatar sağlık unvanı taşımıyor, "Yapay zekâ sunucu" yazısı ilk karede ve Instagram etiketi açık
 - [ ] Müzik ve görsel lisansları var
-- [ ] Avatarın yüzü ve sesi, yaşayan gerçek bir kişi modellenerek üretildiyse o kişinin yazılı izni dosyada (üretim aracından alınan avatar için araç lisansı)
+- [ ] HeyGen'deki avatar (Cemil) ve ses klonları özel avatar/klon: gerçek kişiden üretilmiş kabul edilir. O kişinin yazılı izni dosyada olmalı ve HeyGen kimlik doğrulaması geçerli olmalı (hesapta "0 doğrulanmış kullanıcı" uyarısı görüldü)
 - [ ] Müşteri pazarlama/regülasyon onayı, tarihli
 
 ## 4. Fikirler (hepsi Mie'den bilgi gerektirmeyen, genel bilgilendirme)
@@ -77,3 +77,12 @@ Caption: "Numune sürecini en çok uzatan şey: eksik brif. Kaydet, üreticiye g
 ## 6. Seri A için ek not
 Klinik serisinde avatar "danışana anlatın" dili kullanır ama kişisel tavsiye vermez. Her videoda "hassas ya da tepkisel ciltlerde uzmana danışın" cümlesi
 sesli söylenir (özet bölümünde), ekranda yazılmaz.
+
+## 7. Üretim notları (HeyGen envanteri, 11 Ekim 2026)
+
+- Özel avatarlar: Ben (27 look), Okan (4), Cemil (29). "Aynı adam" = Cemil, lacivert önlüklü, taş duvarlı look'lar.
+- Cemil'in look'larının çoğu "Süresi doldu". Kullanılabilir olan yalnızca 2 look ("Sesin Melodisi"), ikisi de geniş plan. Yakın plan look'ları süresi dolmuş.
+- Kısa vadeli çözüm: tüm sahneleri bu iki geniş look ile üret, yakın planı kurguda kırparak (zoom) elde et.
+- Ses: "Mie Kozmetik" adlı çok sayıda klon var; hangisinin Cemil'e ait olduğu belli değil. Avatar seçildiğinde otomatik atanan ses kullanılır, değiştirilmez.
+- Filigran: önceki bir videoda HeyGen filigranı görüldü; kaldırma ücretli plana bağlı. Yayın öncesi filigransız çıktı kontrol edilir.
+- HeyGen yalnızca avatar konuşma klibi üretir. Altyazı, animasyon, makro görüntü, logo ve kapanış kartı ayrı kurgu programında eklenir.
