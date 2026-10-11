@@ -54,3 +54,15 @@ Ortalama proje süresi 3-6 hafta arasında sonuçlanmaktadır.
 | 1 | @mie.fabrika (11.07.2025 Reels + 4 gönderi) |
 | 2, 4 | @mie.fabrika bio |
 | 3 | site /fason-proje-hazirliklari/ |
+
+---
+
+## v7 metni (müşteri geri bildirimi sonrası)
+
+| Dosya | VO | Kaynak |
+|---|---|---|
+| v7_01 | Kozmetik sektörüne girmek istiyor musunuz? | Site (önceki hook). "siz" hitabına çevrildi (profesyonel ton) |
+| v7_02 | Mie Pharma. Kaliteli üretim, güçlü marka. | Müşterinin gönderdiği başlık (11.10.2026) |
+| v7_03–06 | 10 süreç adımı | Müşterinin gönderdiği "MİE PHARMA – Fason Kozmetik Üretim Süreçleri" listesi, birebir |
+| v7_07 | Markanızı oluşturun, üretimini bize bırakın. | Site sloganı, "siz" hitabına çevrildi |
+| v7_08 | Teklif ve katalog için iletişime geçin. | Site |

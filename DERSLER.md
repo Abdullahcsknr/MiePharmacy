@@ -16,3 +16,7 @@
 | 12 | **Yazma kuralı:** IG'de ya da sitede birebir yoksa yazma · yasal açık varsa yazma · şirket onayı gerektiriyorsa yazma | Kozmetik |
 | 13 | Çağrı: sitedeki "bizimle iletişime geçin" + iletişim adresleri (IG, web) kartı. Çağrı yolu ileride netleşecek | Kozmetik |
 | 14 | "Odak/kutu/animasyon" isteği kapanıştaki iletişim bölümü içindi; açılış gerçek görüntü + altyazı kalır | Fason v5 > v6 |
+15. Görüntü önceliği: **makine, eleman, seri üretim bandı**. Kapı ve koridor girişi minimum. Drone varsa açılışta kullan.
+16. Yazı okunabilirliği için **görüntüyü karartma**. Kart, pill ya da yalnızca yazı bandında hafif gradyan kullan.
+17. Müşterinin kendi gönderdiği ifadeler (süreç listesi, başlık) geçerli kaynaktır; "müşteri onaylı" diye not düş. Ton: "siz" hitabı, profesyonel.
+18. Seslendirme: sakin değil, **canlı ve enerjik** reklam sesi.

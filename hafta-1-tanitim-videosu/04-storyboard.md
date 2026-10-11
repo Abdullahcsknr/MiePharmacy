@@ -59,3 +59,19 @@ Görüntüde yüzü görünen çalışanlar ve yöneticiler için müşteriden y
 - Kullanılacak: `kimlik/logo-guncel-siyah.webp` (siyah serif "Mie": site, IG profil, kapanış videosu)
 - Kullanılmayacak: `kimlik/logo-eski-yesil.webp` (eski logo; tesis tabelalarında ve formalarda görünmesi sorun değil)
 - Eldeki siyah logo 280×280 px. Videoda ~600 px genişlikte kullanılacağı için **en az 1200 px PNG ya da SVG** gerekli
+
+---
+
+## v7 — Müşteri geri bildirimi (11.10.2026)
+
+Geri bildirim: kapı girişleri az, makine, eleman ve seri üretim bandı çok; drone kullanılabilir; gerçek görüntü şart; ifadeler profesyonel; karartma filtresi çok koyu; ses daha canlı olmalı.
+
+| Sn | Sahne | Görüntü (kaynak) | Metin |
+|---|---|---|---|
+| 0–4 | Hook | Drone: bina havadan (Drive "turkce_dusuk_mb_PART_000", 2–9 sn) | Kozmetik sektörüne girmek istiyor musunuz? |
+| 4–7 | Marka | Drone devam | MİE PHARMA · Kaliteli Üretim, Güçlü Marka |
+| 7–27 | 10 süreç adımı (2 sn/adım) | 01 MIE_43 toplantı · 02 MIE_6. lab · 03 YENI_21 numune dolum · 04 MIE_42 varil deposu · 05 MIE_8 üretim ekibi · 06 MIE_7 kazan · 07 MIE_5 kalite kontrol · 08 MIE_28 dolum hattı · 09 MIE_38 etiketli şişeler · 10 YENI_18 transpalet | Müşterinin "Fason Kozmetik Üretim Süreçleri" listesi birebir |
+| 27–33 | Kapanış | Logo | MARKANIZI OLUŞTURUN, ÜRETİMİNİ BİZE BIRAKIN. · Teklif ve Katalog İçin İletişime Geçin · İletişim kartı |
+
+Tasarım: görüntü karartılmıyor. Arka plan aynı görüntünün bulanık hali; okunabilirlik beyaz ve turuncu kartlarla. Üstte "FASON KOZMETİK ÜRETİM SÜREÇLERİ" bandı ve 10 parçalı ilerleme çubuğu.
+WhatsApp tanıtım videosu (51 sn) kullanılmadı: drone yok, hat görüntülerinin çoğu arşivde yok (stok olabilir), "Sağlık Bakanlığı GMP" ifadesi onay gerektirir.

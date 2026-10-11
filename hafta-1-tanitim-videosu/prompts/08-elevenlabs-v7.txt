@@ -1,0 +1,32 @@
+elevenlabs.io'da Türkçe bir Reels videosu için 8 kısa seslendirme üreteceksin. Hesapta oturum açık. Ücretli bir işlem (abonelik yükseltme, kredi satın alma) çıkarsa durdur ve bana sor. Hiçbir ayarı kalıcı olarak değiştirme, ses klonlama yapma.
+
+1. SES SEÇİMİ
+- Text to Speech ekranını aç. Model: Eleven v3 (yoksa Eleven Multilingual v2). Türkçe telaffuzu daha doğal olanı seç.
+- Voice Library'de ara: "energetic Turkish male", "dynamic commercial", "upbeat advertisement".
+- Kriterler: CANLI ve enerjik, gülümseyen tonda, tempolu ama net diksiyon, aksansız Türkçe. Önceki ses fazla sakin bulundu; bu kez daha dinamik bir reklam sesi istiyoruz. Bağırmayan, kurumsal ama enerjik.
+- 3 erkek + 1 kadın aday sesi şu cümleyle dene: "Kozmetik sektörüne girmek istiyor musunuz?" En canlı ve en profesyonel olanla devam et. Adaylarının adlarını ve neden seçtiğini bana yaz.
+
+2. AYARLAR
+- Stability: 0.35 · Similarity: 0.80 · Style: 0.45 · Speaker boost: açık · Speed: 1.05
+- v3 kullanıyorsan stabilite modunu "Natural" ya da "Creative" seç.
+
+3. CÜMLELER (her biri AYRI üretilecek ve AYRI indirilecek, metni harfi harfine kullan)
+v7_01_hook.mp3 — Kozmetik sektörüne girmek istiyor musunuz? — en fazla 2,8 sn
+v7_02_marka.mp3 — Mie Pharma. Kaliteli üretim, güçlü marka. — en fazla 2,8 sn
+v7_03_surec1.mp3 — Müşteri talebi ve ürün planlaması, AR-GE ve formülasyon, numune ve onay süreci. — en fazla 5,6 sn
+v7_04_surec2.mp3 — Hammadde ve ambalaj tedariki, üretim planlaması ve kozmetik ürün üretimi. — en fazla 5,6 sn
+v7_05_surec3.mp3 — Kalite kontrol ve analiz; dolum, etiketleme ve paketleme. — en fazla 3,8 sn
+v7_06_surec4.mp3 — Nihai ürün kontrolü, sevkiyat ve teslimat. — en fazla 3,6 sn
+v7_07_kapanis.mp3 — Markanızı oluşturun, üretimini bize bırakın. — en fazla 2,8 sn
+v7_08_cagri.mp3 — Teklif ve katalog için iletişime geçin. — en fazla 2,6 sn
+
+4. TELAFFUZ KONTROLÜ
+- "Mie" kelimesi "Mi-e" diye okunmalı ("May" ya da "Mi" değil). Yanlış okursa metinde "Mi-e Farma" yazarak tekrar üret.
+- "AR-GE" kelimesi "ar-ge" diye okunmalı, harf harf değil.
+- Bir cümle süreyi aşarsa önce Speed 1.1 dene, yine aşarsa bana süreyi yaz.
+
+5. İNDİRME VE RAPOR
+Her cümleyi MP3 olarak, yukarıdaki adla indir. Sonunda bana şunları yaz:
+- Seçilen sesin adı ve ID'si, kullanılan model
+- Her dosyanın süresi
+- Telaffuz sorunları (varsa)
