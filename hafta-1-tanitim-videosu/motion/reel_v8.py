@@ -366,7 +366,7 @@ SCENES = [(0, 2.0, s_hook), (2.0, 5.5, s_stake), (5.5, 7.0, s_turn), (7.0, 9.0, 
 
 def s_open(t):
     """Kapıdan giriş: hook sorusu, ardından vaat (v4 hali). Kare 1'de altyazı zaten hareket halinde."""
-    fr = foot("open", t); band(fr, 790, 1330, 170)
+    fr = foot("open", t); band(fr, 600, 1320, 170)
     if t < 1.85:
         caption(fr, "Kozmetik sektörüne girmek istiyor musun?".split(), t, 0.0, 0.286 / VO_SPEED, 820, 84)
     else:
