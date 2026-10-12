@@ -117,3 +117,8 @@ Not: Mie_Cosmetics.mp4 160 sn, 720p; içinde makine sahnelerinin daha kaliteli h
 ## v11: v10 + seslendirme 1,15 kat hızlı
 
 Seslendirme 1,15 kat hızlandırıldı (perde korunuyor, ffmpeg atempo). Cümlelerin başlangıç zamanları aynı. Altyazı kelime hızı da 1,15 kat artırıldı. Kullanılan araçlar: mix_v3b.py --tempo 1.15, reel_v8.py VO_SPEED.
+
+## v12: v11 + drone açılışında boş arsa çekimi çıkarıldı
+
+Açılış iki çekimden oluşuyor: genel şehir/bina görünümü (Mie_Cosmetics 0,2–2,2 sn, 0,6x yavaş) ve binaya yakın plan (4,95–5,95 sn, 0,5x yavaş). Arsa görünen tilt çekimi (2,3–4,9 sn) çıkarıldı.
+Not: yakın planda binanın tepesindeki tabelada başka bir marka adı okunuyor.
