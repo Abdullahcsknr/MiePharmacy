@@ -133,5 +133,5 @@ Not: yakın planda binanın tepesindeki tabelada başka bir marka adı okunuyor.
 
 - Açılış tekrar tam ekran drone. Kareler Real-ESRGAN (realesr-general-x4v3, esr.py) ile 4 kat netleştirildi, sonra 1080×1920'ye indirildi.
 - Marka açılışı (MIE_38 etiketli şişeler) ve seri üretim zemini (MIE_3 kazan) aynı yöntemle netleştirildi.
-- Onaylanan numune sahnesi (MIE_30) netleştirmesi sürüyor; bir sonraki sürümde eklenecek.
+- v15: onaylanan numune sahnesi (MIE_30) de netleştirildi. Tüm tam ekran sahneler artık netleştirilmiş.
 - Ses v13 ile aynı (1,25x).
