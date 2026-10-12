@@ -122,3 +122,9 @@ Seslendirme 1,15 kat hızlandırıldı (perde korunuyor, ffmpeg atempo). Cümlel
 
 Açılış iki çekimden oluşuyor: genel şehir/bina görünümü (Mie_Cosmetics 0,2–2,2 sn, 0,6x yavaş) ve binaya yakın plan (4,95–5,95 sn, 0,5x yavaş). Arsa görünen tilt çekimi (2,3–4,9 sn) çıkarıldı.
 Not: yakın planda binanın tepesindeki tabelada başka bir marka adı okunuyor.
+
+## v13: netlik ve ses hızı
+
+- Drone, dikey kırpılıp 2,7 kat büyütülmüyor. Artık tam genişlikte yatay bant (1080×608, büyütme yok); arkası bulanık aynı görüntü. Filigran ve arsa kadraj dışında.
+- Tam ekran ve adım görüntülerine keskinleştirme uygulandı (unsharp). Kodlama crf 14 / slow (daha yüksek kalite).
+- Seslendirme 1,25 kat hızlı (önce 1,15). Altyazı kelime hızı da buna göre ayarlandı.

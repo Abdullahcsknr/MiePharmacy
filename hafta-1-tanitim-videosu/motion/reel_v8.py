@@ -13,7 +13,7 @@ from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
 W, H, FPS, DUR = 1080, 1920, 30, 21.3   # v4: ilk 9 sn (hook paneli, kart yağmuru, damga) çıkarıldı
 OPEN, SKIP = 4.0, 5.0   # yeni açılış 4,0 anim sn; sonrası eski zaman çizelgesinde +5,0 ileriden devam eder
-VO_SPEED = 1.15   # v11: seslendirme 1,15 kat hızlı; altyazı kelime hızı buna göre
+VO_SPEED = 1.25   # v13: seslendirme 1,25 kat hızlı; altyazı kelime hızı buna göre
 TS = 1.3  # zaman ölçeği: tüm hareketler 1,3 kat yavaş (toplam 32,5 sn)
 OR = (255, 100, 24); WH = (255, 255, 255); GR = (85, 85, 85); LG = (244, 244, 244); INK = (20, 20, 20)
 
@@ -366,7 +366,7 @@ SCENES = [(0, 2.0, s_hook), (2.0, 5.5, s_stake), (5.5, 7.0, s_turn), (7.0, 9.0, 
 
 def s_open(t):
     """Kapıdan giriş: hook sorusu, ardından vaat (v4 hali). Kare 1'de altyazı zaten hareket halinde."""
-    fr = foot("open", t); band(fr, 600, 1320, 170)
+    fr = foot("open", t); band(fr, 790, 1330, 170)
     if t < 1.85:
         caption(fr, "Kozmetik sektörüne girmek istiyor musun?".split(), t, 0.0, 0.286 / VO_SPEED, 820, 84)
     else:
@@ -388,7 +388,7 @@ if A.stills:
 
 n0, n1 = int(A.t0 * FPS), int(A.t1 * FPS)
 p = subprocess.Popen(["ffmpeg", "-v", "error", "-y", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}", "-r", str(FPS),
-                      "-i", "-", "-c:v", "libx264", "-crf", "18", "-preset", "medium", "-pix_fmt", "yuv420p", "-movflags", "+faststart", A.out],
+                      "-i", "-", "-c:v", "libx264", "-crf", "14", "-preset", "slow", "-pix_fmt", "yuv420p", "-movflags", "+faststart", A.out],
                      stdin=subprocess.PIPE)
 for i in range(n0, n1):
     p.stdin.write(frame_at(i / FPS / TS).tobytes())
