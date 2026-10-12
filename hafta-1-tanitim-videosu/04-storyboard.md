@@ -128,3 +128,10 @@ Not: yakın planda binanın tepesindeki tabelada başka bir marka adı okunuyor.
 - Drone, dikey kırpılıp 2,7 kat büyütülmüyor. Artık tam genişlikte yatay bant (1080×608, büyütme yok); arkası bulanık aynı görüntü. Filigran ve arsa kadraj dışında.
 - Tam ekran ve adım görüntülerine keskinleştirme uygulandı (unsharp). Kodlama crf 14 / slow (daha yüksek kalite).
 - Seslendirme 1,25 kat hızlı (önce 1,15). Altyazı kelime hızı da buna göre ayarlandı.
+
+## v14: yapay zekâ ile netleştirme
+
+- Açılış tekrar tam ekran drone. Kareler Real-ESRGAN (realesr-general-x4v3, esr.py) ile 4 kat netleştirildi, sonra 1080×1920'ye indirildi.
+- Marka açılışı (MIE_38 etiketli şişeler) ve seri üretim zemini (MIE_3 kazan) aynı yöntemle netleştirildi.
+- Onaylanan numune sahnesi (MIE_30) netleştirmesi sürüyor; bir sonraki sürümde eklenecek.
+- Ses v13 ile aynı (1,25x).
