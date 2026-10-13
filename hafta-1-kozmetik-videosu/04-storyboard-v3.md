@@ -22,3 +22,7 @@ Görsel: `04-storyboard-v3.jpg`. Görüntüler makine ve ürün; insan yok. Tam 
 | k3_07_kapanis | Mie Pharma. Kaliteli üretim, güçlü markalar. |
 | k3_08_cagri | Teklif ve katalog için iletişime geçin. |
 Hook kaynağı: müşteri metni "Fason kozmetik üretimiyle kendi markanızı hayata geçirin". Çağrı: site.
+
+## k4 final
+- Seslendirme: heyecanlı ses (k4_01–08), 1,25x. Cue'lar: 0,1 · 3,15 · 5,6 · 11,6 · 17,6 · 21,6 · 25,7 · 28,2
+- Tüm tam ekran sahneler Real-ESRGAN ile netleştirildi. Çıktı: `cikti/mie-kozmetik-reel-k4.mp4`
