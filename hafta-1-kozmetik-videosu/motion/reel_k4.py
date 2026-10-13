@@ -173,7 +173,7 @@ def pill(fr, text, x, y, size, p, fg=WH, bg=OR, font="AN"):
 
 def s_hook(t):
     fr = foot("hook", t); band(fr, 600, 1320, 170)
-    caption(fr, "Kendi kozmetik markanızı kurmak mı istiyorsunuz?".split(), t, 0.05, 0.34 / VO_SPEED * 1.25, 820, 80)
+    caption(fr, "Kendi kozmetik markanızı kurmak mı istiyorsunuz?".split(), t, 0.1, 0.30, 820, 80)   # k4_01 (1,25x) ile senkron
     return fr
 
 
