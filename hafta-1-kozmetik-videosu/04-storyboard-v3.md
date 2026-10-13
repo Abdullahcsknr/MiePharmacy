@@ -7,7 +7,7 @@ Görsel: `04-storyboard-v3.jpg`. Görüntüler makine ve ürün; insan yok. Tam 
 |---|---|---|---|
 | 0–3 | Hook | MIE_28 dolum hattı | Kendi kozmetik markanızı kurmak mı istiyorsunuz? (altyazı) |
 | 3–5,5 | Başlık | MIE_3 makine salonu | MİE PHARMA · FASON KOZMETİK ÜRETİM SÜREÇLERİ |
-| 5,5–25,5 | 10 adım (2 sn) | 01 MIE_47 showroom · 02 kazan karıştırma · 03 MIE_45 raflar · 04 MIE_42 variller · 05 makine salonu · 06 MIE_3 kazan · 07 MIE_30 etiket makinesi · 08 MIE_28 dolum · 09 MIE_38 etiketli şişeler · 10 MIE_44 kutulu ürünler | Numara + adım adı kartı, ilerleme çubuğu |
+| 5,5–25,5 | 10 adım (2 sn) | 01 Mie_Cosmetics 118,9 sn toplantı (kullanıcı isteği) · 02 kazan karıştırma · 03 MIE_45 raflar · 04 MIE_42 variller · 05 makine salonu · 06 MIE_3 kazan · 07 MIE_30 etiket makinesi · 08 MIE_28 dolum · 09 MIE_38 etiketli şişeler · 10 MIE_44 kutulu ürünler | Numara + adım adı kartı, ilerleme çubuğu |
 | 25,5–30,5 | Kapanış | Logo | MİE PHARMA · Kaliteli Üretim, Güçlü Markalar. · Teklif ve Katalog İçin İletişime Geçin · @mie_cosmeticss · miepharma.com |
 
 ## Seslendirme
