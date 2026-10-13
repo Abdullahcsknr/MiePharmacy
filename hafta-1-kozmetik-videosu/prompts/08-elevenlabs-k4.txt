@@ -2,11 +2,14 @@ elevenlabs.io'da Türkçe bir Instagram Reels videosu için 8 kısa seslendirme 
 
 1. SES SEÇİMİ
 - Text to Speech ekranını aç. Model: Eleven v3 (yoksa Eleven Multilingual v2). Türkçe telaffuzu daha doğal olanı seç.
-- Fason videosunda kullandığımız erkek sesi kullan. Bulamazsan Voice Library'de "energetic Turkish male", "dynamic commercial" ara.
-- Kriterler: canlı ve enerjik, kurumsal ama tempolu, net diksiyon, aksansız Türkçe. Bağırmayan reklam sesi.
+- Voice Library'de ara: "excited Turkish male", "hype commercial", "energetic promo", "upbeat announcer".
+- Kriterler: HEYECANLI ve coşkulu, yüksek enerjili reklam sesi; gülümseyen, ileriye doğru akan tonlama. Net diksiyon, aksansız Türkçe. Bağırmasın, kurumsal ciddiyeti korusun.
+- 4 aday sesi (3 erkek + 1 kadın) şu cümleyle dene: "Kendi kozmetik markanızı kurmak mı istiyorsunuz?" En heyecanlı ve en anlaşılır olanla devam et. Adayların adlarını ve neden seçtiğini bana yaz.
+- v3 kullanıyorsan cümlelerin başına [excited] etiketi ekleyebilirsin (yalnız etiket; metnin kendisini değiştirme).
 
 2. AYARLAR
-- Stability: 0.35 · Similarity: 0.80 · Style: 0.45 · Speaker boost: açık · Speed: 1.0
+- Stability: 0.30 · Similarity: 0.80 · Style: 0.60 · Speaker boost: açık · Speed: 1.05
+- v3 kullanıyorsan stabilite modu: "Creative".
 
 3. CÜMLELER (her biri AYRI üretilecek ve AYRI indirilecek, metni harfi harfine kullan)
 k4_01_hook.mp3 — Kendi kozmetik markanızı kurmak mı istiyorsunuz? — en fazla 3,3 sn
