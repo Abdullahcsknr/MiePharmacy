@@ -1,0 +1,27 @@
+elevenlabs.io'da Mie fason Reels videosu için 7 kısa seslendirme üreteceksin. Hesapta oturum açık. Ücretli bir işlem (abonelik yükseltme, kredi satın alma) çıkarsa durdur ve bana sor. Hiçbir ayarı kalıcı olarak değiştirme, ses klonlama yapma.
+
+1. SES: MARKA SESİ (DEĞİŞTİRME)
+- En son kozmetik videosu için ürettiğimiz k4_ dosyalarındaki sesin aynısını kullan. Bu ses artık markanın sesi.
+- Bulmak için: sol menüde History (Geçmiş) bölümünü aç, "Kendi kozmetik markanızı kurmak mı istiyorsunuz?" cümlesinin kaydını bul, hangi ses ve modelle üretildiğine bak. Aynı sesi, aynı modeli ve aynı ayarları seç.
+- Ayarlar k4 ile aynı olmalı: Stability 0.30 · Similarity 0.80 · Style 0.60 · Speaker boost açık · Speed 1.05 (v3 kullanıldıysa "Creative" modu ve cümle başında [excited] etiketi).
+- Sesin adını ve ID'sini bana yaz. Başka bir ses deneme.
+
+2. CÜMLELER (her biri AYRI üretilecek ve AYRI indirilecek, metni harfi harfine kullan)
+m_01_hook.mp3 — Kozmetik sektörüne girmek istiyor musun? — en fazla 2,7 sn
+m_02_vaat.mp3 — Kendi markanı oluşturmak artık çok daha kolay. — en fazla 3,3 sn
+m_03_marka.mp3 — Mie Kozmetik, fason üretim merkezi. — en fazla 3,0 sn
+m_04_kanit.mp3 — Onaylanan numune ile birebir aynı kalitede seri imalat. — en fazla 4,4 sn
+m_05_sure.mp3 — Ortalama proje süresi üç ila altı hafta. — en fazla 3,6 sn
+m_06_kapanis.mp3 — Markanı oluştur, üretimini bize bırak. — en fazla 2,8 sn
+m_07_cagri.mp3 — Teklif ve katalog için iletişime geçin. — en fazla 3,0 sn
+
+3. TELAFFUZ KONTROLÜ
+- "Mie" kelimesi "Mi-e" diye okunmalı ("May" ya da "Mi" değil). Yanlış okursa metinde "Mi-e Kozmetik" yazarak tekrar üret.
+- "numune", "imalat", "fason" kelimelerinde vurgu doğal Türkçe olmalı.
+- Bir cümle süreyi aşarsa Speed 1.1 dene, yine aşarsa bana süreyi yaz.
+
+4. İNDİRME VE RAPOR
+Her cümleyi MP3 olarak, yukarıdaki adla indir. Sonunda bana şunları yaz:
+- Sesin adı ve ID'si, kullanılan model ve ayarlar
+- Her dosyanın süresi
+- Telaffuz sorunları (varsa)

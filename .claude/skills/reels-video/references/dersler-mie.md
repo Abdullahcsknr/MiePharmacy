@@ -21,3 +21,4 @@
 17. Müşterinin kendi gönderdiği ifadeler (süreç listesi, başlık) geçerli kaynaktır; "müşteri onaylı" diye not düş. Ton: "siz" hitabı, profesyonel.
 18. Seslendirme: sakin değil, **canlı ve enerjik** reklam sesi.
 19. Seslendirme hızı sese göre: sakin seste 1,25x, heyecanlı seste 1,10x (kozmetik k5).
+20. **Marka sesi** sabit: kozmetik k4/k5 heyecanlı sesi. Tüm videolarda aynı ses kullanılır.
