@@ -135,3 +135,6 @@ Not: yakın planda binanın tepesindeki tabelada başka bir marka adı okunuyor.
 - Marka açılışı (MIE_38 etiketli şişeler) ve seri üretim zemini (MIE_3 kazan) aynı yöntemle netleştirildi.
 - v15: onaylanan numune sahnesi (MIE_30) de netleştirildi. Tüm tam ekran sahneler artık netleştirilmiş.
 - Ses v13 ile aynı (1,25x).
+
+## v16: marka sesi
+Ses: ElevenLabs "Erdem - Excited and Energetic" (v3, sp100 s65 sb90), 1,10x. Dosyalar cikti/ses/vo_marka/m_01..07 (indirme saatine göre sıralandı). Altyazı hızları yeni sese göre. Görüntü v15 ile aynı.
