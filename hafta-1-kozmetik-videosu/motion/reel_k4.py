@@ -9,7 +9,7 @@ from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
 W, H, FPS, DUR = 1080, 1920, 30, 30.5
 TS = 1.0
-VO_SPEED = 1.25
+VO_SPEED = 1.10
 HANDLE = "@mie_cosmeticss"
 OR = (255, 100, 24); WH = (255, 255, 255); GR = (85, 85, 85); LG = (244, 244, 244); INK = (20, 20, 20)
 HOOK_END, TITLE_END, STEP0, STEP_D, OUTRO = 3.0, 5.5, 5.5, 2.0, 25.5
@@ -173,7 +173,7 @@ def pill(fr, text, x, y, size, p, fg=WH, bg=OR, font="AN"):
 
 def s_hook(t):
     fr = foot("hook", t); band(fr, 600, 1320, 170)
-    caption(fr, "Kendi kozmetik markanızı kurmak mı istiyorsunuz?".split(), t, 0.1, 0.30, 820, 80)   # k4_01 (1,25x) ile senkron
+    caption(fr, "Kendi kozmetik markanızı kurmak mı istiyorsunuz?".split(), t, 0.1, 0.33, 820, 80)   # k4_01 (1,10x) ile senkron
     return fr
 
 

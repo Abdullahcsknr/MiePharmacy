@@ -20,3 +20,4 @@
 16. Yazı okunabilirliği için **görüntüyü karartma**. Kart, pill ya da yalnızca yazı bandında hafif gradyan kullan.
 17. Müşterinin kendi gönderdiği ifadeler (süreç listesi, başlık) geçerli kaynaktır; "müşteri onaylı" diye not düş. Ton: "siz" hitabı, profesyonel.
 18. Seslendirme: sakin değil, **canlı ve enerjik** reklam sesi.
+19. Seslendirme hızı sese göre: sakin seste 1,25x, heyecanlı seste 1,10x (kozmetik k5).

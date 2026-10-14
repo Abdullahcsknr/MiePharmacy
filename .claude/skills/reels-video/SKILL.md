@@ -57,7 +57,7 @@ Referans çıktı ve birebir tarif: `references/v15-tarifi.md`.
 - Altyazı: kart başına ≤ 6 kelime. Yazım hatası yok (İSTİYOR MUSUN?).
 
 ## Ses kuralları
-- Ses canlı ve enerjik olmalı. Seslendirme **1,25 kat hızlı** (`mix.py --tempo 1.25`, render'da `VO_SPEED = 1.25`).
+- Ses canlı ve enerjik olmalı. Hız sese göre: sakin ses (fason) **1,25x** kabul edildi; zaten heyecanlı ses (kozmetik k4) 1,25'te "çok hızlı" bulundu, **1,10x** istendi. Heyecanlı seste 1,10 ile başla. `mix.py --tempo` ve render'daki `VO_SPEED` aynı olmalı; hook altyazı kelime hızını VO süresine göre ayarla.
 - Müzik konuşma altında -10 dB. Loudness -14 LUFS, TP -1,5.
 - Ses dinlenemiyor: yerleşimi süre ve zaman damgasıyla yap, kullanıcıya bunu söyle.
 

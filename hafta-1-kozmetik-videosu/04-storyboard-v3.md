@@ -26,3 +26,6 @@ Hook kaynağı: müşteri metni "Fason kozmetik üretimiyle kendi markanızı ha
 ## k4 final
 - Seslendirme: heyecanlı ses (k4_01–08), 1,25x. Cue'lar: 0,1 · 3,15 · 5,6 · 11,6 · 17,6 · 21,6 · 25,7 · 28,2
 - Tüm tam ekran sahneler Real-ESRGAN ile netleştirildi. Çıktı: `cikti/mie-kozmetik-reel-k4.mp4`
+
+## k5
+- Seslendirme 1,10x (kullanıcı: "ses çok hızlı"). Cue: 0,1 · 3,1 · 5,6 · 11,6 · 17,5 · 21,75 · 25,65 · 28,35. Görüntü k4 ile aynı.
