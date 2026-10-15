@@ -1,0 +1,38 @@
+elevenlabs.io'da Mie fason Reels videosunun seslendirmesini TEK KAYIT olarak üreteceksin. Hesapta oturum açık. Ücretli bir işlem (abonelik yükseltme, kredi satın alma) çıkarsa durdur ve bana sor. Hiçbir ayarı kalıcı olarak değiştirme, ses klonlama yapma.
+
+NEDEN TEK KAYIT: Cümleler ayrı ayrı üretilince her birinin tonlaması farklı çıktı, iki ayrı ses gibi duyuldu. Bu yüzden metnin tamamı tek seferde, tek dosya olarak üretilecek. Cümleleri ben bölüp yerleştireceğim.
+
+1. SES VE AYARLAR
+- Ses: "Erdem - Excited and Energetic" (marka sesi). Başka ses deneme.
+- Model: Eleven v3.
+- Stabilite modu: "Natural" (Creative DEĞİL; Creative her cümlede tonu değiştiriyor).
+- Stability: 0.50 · Similarity: 0.80 · Style: 0.45 · Speaker boost: açık · Speed: 1.0
+- Etiket kullanma ([excited] vb. ekleme). Enerji tüm metin boyunca aynı kalsın.
+
+2. METİN (aşağıdakini harfi harfine, tek kutuya yapıştır; satır araları kalsın)
+Kozmetik sektörüne girmek istiyor musun?
+
+Kendi markanı oluşturmak artık çok daha kolay.
+
+Mie Kozmetik, fason üretim merkezi.
+
+Onaylanan numune ile birebir aynı kalitede seri imalat.
+
+Stratejik planlama, formülasyon geliştirme, tasarım ve ambalaj seçimi, yasal kayıtlar.
+
+Seri üretim ve kalite kontrol.
+
+Ortalama proje süresi üç ila altı hafta.
+
+Markanı oluştur, üretimini bize bırak.
+
+Teklif ve katalog için iletişime geçin.
+
+3. KONTROL
+- Cümleler arasında yaklaşık yarım saniyelik kısa bir duraklama olsun; daha uzun olmasın.
+- "Mie" kelimesi "Mi-e" diye okunmalı. Yanlış okursa metinde "Mi-e Kozmetik" yazarak tekrar üret.
+- Toplam süre yaklaşık 22–26 saniye olmalı.
+- İki ya da üç deneme üret, tonlaması baştan sona en tutarlı ve en enerjik olanı seç.
+
+4. İNDİRME VE RAPOR
+Seçtiğin kaydı MP3 olarak "fason_tek_kayit.mp3" adıyla indir. Bana şunları yaz: toplam süre, kullanılan model ve ayarlar, telaffuz sorunları (varsa).
